@@ -22,6 +22,7 @@ or see http://www.gnu.org/licenses/agpl.txt.
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <ctime>
 
 #include "typedefs.h"
 #include "Extractor/ExtractorCallbacks.h"

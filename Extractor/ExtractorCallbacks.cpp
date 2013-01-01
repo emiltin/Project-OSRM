@@ -67,7 +67,7 @@ bool ExtractorCallbacks::restrictionFunction(_RawRestrictionContainer &r) {
 bool ExtractorCallbacks::wayFunction(_Way &w) {
     /*** Store name of way and split it into edge segments ***/
 
-    if ( w.speed > 0 ) { //Only true if the way is specified by the speed profile
+    if ( (w.speed > 0) || (w.duration > 0) ) { //Only true if the way is specified by the speed profile
 
         //Get the unique identifier for the street name
         const StringMap::const_iterator strit = stringMap->find(w.name);
@@ -78,7 +78,14 @@ bool ExtractorCallbacks::wayFunction(_Way &w) {
         } else {
             w.nameID = strit->second;
         }
-
+        
+        // Save path of way with duration (typical ferry route),
+        // needed to later calculcate speed as distance/duration.
+        if( w.duration > 0 ) {
+            //externalMemory->wayPaths.push_back(w.path);
+            w.speed = 1;
+        }
+        
         if(fabs(-1. - w.speed) < FLT_EPSILON){
             WARN("found way with bogus speed, id: " << w.id);
             return true;
@@ -93,7 +100,7 @@ bool ExtractorCallbacks::wayFunction(_Way &w) {
         }
 
         for(std::vector< NodeID >::size_type n = 0; n < w.path.size()-1; ++n) {
-            externalMemory->allEdges.push_back(_Edge(w.path[n], w.path[n+1], w.type, w.direction, w.speed, w.nameID, w.roundabout, w.ignoreInGrid, w.isDurationSet, w.isAccessRestricted));
+            externalMemory->allEdges.push_back(_Edge(w.id, w.path[n], w.path[n+1], w.type, w.direction, w.speed, w.nameID, w.roundabout, w.ignoreInGrid, w.duration, w.isAccessRestricted));
             externalMemory->usedNodeIDs.push_back(w.path[n]);
         }
         externalMemory->usedNodeIDs.push_back(w.path.back());

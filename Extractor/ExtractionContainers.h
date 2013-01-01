@@ -29,6 +29,8 @@
 
 class ExtractionContainers {
 public:
+    typedef stxxl::vector<_EdgeDistance> STXXLEdgeDistanceVector;
+    typedef stxxl::vector<_WayDistance> STXXLWayDistanceVector;
     typedef stxxl::vector<NodeID> STXXLNodeIDVector;
     typedef stxxl::vector<_Node> STXXLNodeVector;
     typedef stxxl::vector<_Edge> STXXLEdgeVector;
@@ -56,14 +58,17 @@ public:
     }
 
     void PrepareData( const std::string & outputFileName, const std::string restrictionsFileName, const unsigned amountOfRAM);
-
+    
+    //distances are only stored for ways with duration set. needed to calculate speeds  
+    STXXLEdgeDistanceVector     edgeDistances;
+    STXXLWayDistanceVector     wayDistances;
+    
     STXXLNodeIDVector           usedNodeIDs;
     STXXLNodeVector             allNodes;
     STXXLEdgeVector             allEdges;
     STXXLStringVector           nameVector;
     STXXLRestrictionsVector     restrictionsVector;
     STXXLWayIDStartEndVector    wayStartEndVector;
-
 };
 
 #endif /* EXTRACTIONCONTAINERS_H_ */

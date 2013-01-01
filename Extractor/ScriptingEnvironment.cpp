@@ -86,7 +86,7 @@ ScriptingEnvironment::ScriptingEnvironment(const char * fileName) {
                                      .def_readwrite("type", &_Way::type)
                                      .def_readwrite("access", &_Way::access)
                                      .def_readwrite("roundabout", &_Way::roundabout)
-                                     .def_readwrite("is_duration_set", &_Way::isDurationSet)
+                                     .def_readwrite("duration", &_Way::duration)
                                      .def_readwrite("is_access_restricted", &_Way::isAccessRestricted)
                                      .def_readwrite("ignore_in_grid", &_Way::ignoreInGrid)
                                      .def_readwrite("tags", &_Way::keyVals)

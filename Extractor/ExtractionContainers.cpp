@@ -193,7 +193,7 @@ void ExtractionContainers::PrepareData(const std::string & outputFileName, const
         }
         std::cout << "ok, after " << get_timestamp() - time << "s" << std::endl;
         time = get_timestamp();
-
+        
         // Sort Edges by target
         std::cout << "[extractor] Sorting edges by target   ... " << std::flush;
         stxxl::sort(allEdges.begin(), allEdges.end(), CmpEdgeByTargetID(), memory_to_use);
@@ -218,52 +218,134 @@ void ExtractionContainers::PrepareData(const std::string & outputFileName, const
                 if(edgeIT->startCoord.lat != INT_MIN && edgeIT->startCoord.lon != INT_MIN) {
                     edgeIT->targetCoord.lat = nodesIT->lat;
                     edgeIT->targetCoord.lon = nodesIT->lon;
-
-                    double distance = ApproximateDistance(edgeIT->startCoord.lat, edgeIT->startCoord.lon, nodesIT->lat, nodesIT->lon);
-                    assert(edgeIT->speed != -1);
-                    double weight = ( distance * 10. ) / (edgeIT->speed / 3.6);
-                    int intWeight = std::max(1, (int)std::floor((edgeIT->isDurationSet ? edgeIT->speed : weight)+.5) );
-                    int intDist = std::max(1, (int)distance);
-                    short zero = 0;
-                    short one = 1;
-
-                    fout.write((char*)&edgeIT->start, sizeof(unsigned));
-                    fout.write((char*)&edgeIT->target, sizeof(unsigned));
-                    fout.write((char*)&intDist, sizeof(int));
-                    switch(edgeIT->direction) {
-                    case _Way::notSure:
-                        fout.write((char*)&zero, sizeof(short));
-                        break;
-                    case _Way::oneway:
-                        fout.write((char*)&one, sizeof(short));
-                        break;
-                    case _Way::bidirectional:
-                        fout.write((char*)&zero, sizeof(short));
-
-                        break;
-                    case _Way::opposite:
-                        fout.write((char*)&one, sizeof(short));
-                        break;
-                    default:
-                      std::cerr << "[error] edge with no direction: " << edgeIT->direction << std::endl;
-                      assert(false);
-                        break;
+                    if( edgeIT->duration > 0 ) {
+                        double distance = ApproximateDistance(edgeIT->startCoord.lat, edgeIT->startCoord.lon, edgeIT->targetCoord.lat, edgeIT->targetCoord.lon);
+                        edgeDistances.push_back(_EdgeDistance(edgeIT->wayID, distance));
+                        //INFO( "save edge duration, wayid:" << edgeIT->wayID << ", distance: " << distance );
                     }
-                    fout.write((char*)&intWeight, sizeof(int));
-                    assert(edgeIT->type >= 0);
-                    fout.write((char*)&edgeIT->type, sizeof(short));
-                    fout.write((char*)&edgeIT->nameID, sizeof(unsigned));
-                    fout.write((char*)&edgeIT->isRoundabout, sizeof(bool));
-                    fout.write((char*)&edgeIT->ignoreInGrid, sizeof(bool));
-                    fout.write((char*)&edgeIT->isAccessRestricted, sizeof(bool));
-                }
+                 }
                 ++usedEdgeCounter;
                 ++edgeIT;
             }
         }
         std::cout << "ok, after " << get_timestamp() - time << "s" << std::endl;
-        std::cout << "[extractor] setting number of edges   ... " << std::flush;
+        time = get_timestamp();
+        
+        
+        // Sort distances by way id
+        std::cout << "[extractor] Sorting distances by way id    ... " << std::flush;
+        stxxl::sort(edgeDistances.begin(), edgeDistances.end(), CmpEdgeDistancesByWayID(), memory_to_use);
+        std::cout << "ok, after " << get_timestamp() - time << "s" << std::endl;
+        time = get_timestamp();
+        
+        // Sum edge distance into way distance (but only for ways that has duration set) 
+        std::cout << "[extractor] Summing route distances    ... " << std::endl << std::flush;
+        if( edgeDistances.size() > 0 ) {
+            STXXLEdgeDistanceVector::iterator edgeDistancesIT = edgeDistances.begin();
+            unsigned wayID = edgeDistancesIT->wayID;
+            double wayDistance;
+            bool moreDistanceEdges = edgeDistancesIT != edgeDistances.end();
+            while( moreDistanceEdges ) {
+                //INFO( "considering distance id: " << edgeDistancesIT->wayID );
+                wayDistance += edgeDistancesIT->distance;
+                ++edgeDistancesIT;
+                moreDistanceEdges = edgeDistancesIT != edgeDistances.end();
+                if( moreDistanceEdges==false || edgeDistancesIT->wayID != wayID) {
+                    //INFO( "pushing, way id: " << wayID << ", way distance: " << wayDistance );
+                    wayDistances.push_back(_WayDistance(wayID, wayDistance));
+                    wayID = edgeDistancesIT->wayID;
+                    wayDistance = 0;
+                }
+            }
+        }
+        
+        std::cout << "number of route distances saved: " << wayDistances.size() << std::endl;
+        std::cout << "ok, after " << get_timestamp() - time << "s" << std::endl;
+        time = get_timestamp();
 
+
+        //INFO( "way distances saved:" );
+        //STXXLWayDistanceVector::iterator iter = wayDistances.begin();
+        //while( iter != wayDistances.end() ) {
+        //    INFO( "distance, way id: " << iter->wayID << ", distance: " << iter->distance );
+        //    ++iter;
+        //}
+
+        
+        // Write edges, still sorted by target
+        std::cout << "[extractor] Writing edges     ... " << std::endl << std::flush;
+        edgeIT = allEdges.begin();
+        STXXLWayDistanceVector::iterator wayDistancesIT = wayDistances.begin();
+        
+        while(edgeIT != allEdges.end() ) {
+            double distance = ApproximateDistance(edgeIT->startCoord.lat, edgeIT->startCoord.lon, edgeIT->targetCoord.lat, edgeIT->targetCoord.lon);
+            double weight;
+            if( edgeIT->duration > 0 ) {
+                _WayDistance distance_search(edgeIT->wayID,0);
+                wayDistancesIT = stxxl::find(wayDistances.begin(), wayDistances.end(), distance_search, memory_to_use);
+                double wayDistance = wayDistancesIT->distance;
+                double ratio = distance / wayDistance;
+                double duration = edgeIT->duration * ratio;
+                edgeIT->speed = distance / duration;
+                weight = duration;
+                
+                //INFO( "--" );
+                //INFO( "way id: " << edgeIT->wayID );
+                //INFO( "distance / way id: " << wayDistancesIT->wayID );
+                //INFO( "way duration: " << edgeIT->duration );
+                //INFO( "way distance: " << wayDistance );
+                //INFO( "edge distance: " << distance );
+                //INFO( "ratio: " << ratio );
+                //INFO( "edge weight: " << weight );
+                //INFO( "edge speed: " << edgeIT->speed );
+                //INFO( "edge duration: " << duration );
+            } else {
+                assert(edgeIT->speed != -1);
+                weight = 10 * 3.6 * distance / edgeIT->speed;
+                //INFO( "speed weight: " << weight );
+            }
+            int intWeight = std::max(1, (int)round(weight) );
+            int intDist = std::max(1, (int)round(distance));
+            
+            short zero = 0;
+            short one = 1;
+
+            fout.write((char*)&edgeIT->start, sizeof(unsigned));
+            fout.write((char*)&edgeIT->target, sizeof(unsigned));
+            fout.write((char*)&intDist, sizeof(int));
+            switch(edgeIT->direction) {
+            case _Way::notSure:
+                fout.write((char*)&zero, sizeof(short));
+                break;
+            case _Way::oneway:
+                fout.write((char*)&one, sizeof(short));
+                break;
+            case _Way::bidirectional:
+                fout.write((char*)&zero, sizeof(short));
+
+                break;
+            case _Way::opposite:
+                fout.write((char*)&one, sizeof(short));
+                break;
+            default:
+              std::cerr << "[error] edge with no direction: " << edgeIT->direction << std::endl;
+              assert(false);
+                break;
+            }
+            fout.write((char*)&intWeight, sizeof(int));
+            assert(edgeIT->type >= 0);
+            fout.write((char*)&edgeIT->type, sizeof(short));
+            fout.write((char*)&edgeIT->nameID, sizeof(unsigned));
+            fout.write((char*)&edgeIT->isRoundabout, sizeof(bool));
+            fout.write((char*)&edgeIT->ignoreInGrid, sizeof(bool));
+            fout.write((char*)&edgeIT->isAccessRestricted, sizeof(bool));
+
+            ++edgeIT;
+        }
+        std::cout << "ok, after " << get_timestamp() - time << "s" << std::endl;
+
+
+        std::cout << "[extractor] setting number of edges   ... " << std::flush;
         fout.seekp(positionInFile);
         fout.write((char*)&usedEdgeCounter, sizeof(unsigned));
         fout.close();

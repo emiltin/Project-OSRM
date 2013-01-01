@@ -38,6 +38,26 @@ Feature: Testbot - Handle ferry routes
          | n    | o  | no    | 86400s +-1  |
          | r    | s  | rs    | 345600s +-1 |
     
+
+ 	Scenario: Testbot - Ferry duration formats
+ 		Given the node map
+ 		 | a | b | c | d |
+ 		 | e | f | g | h |
+
+ 		And the ways
+ 		 | nodes | highway | route | duration |
+ 		 | ab    | primary |       |          |
+ 		 | cd    | primary |       |          |
+ 		 | ef    | primary |       |          |
+ 		 | gh    | primary |       |          |
+ 		 | bc    |         | ferry | 0:45     |
+ 		 | fg    |         | ferry | 00:45    |
+
+         When I route I should get
+          | from | to | route | time      |
+          | b    | c  | bc    | 2700s +-1 |
+          | f    | g  | fg    | 2700s +-1 |
+
     @todo
  	Scenario: Testbot - Week long ferry routes
  		Given the node map
@@ -100,7 +120,6 @@ Feature: Testbot - Handle ferry routes
 		 | a    | b  | abcd  | 60s +-1  |
 		 | b    | c  | abcd  | 120s +-1 |
 		 | c    | d  | abcd  | 180s +-1 |
-    
     @todo
  	Scenario: Testbot - Ferry duration, individual parts, slow
  		Given the node map
@@ -154,9 +173,9 @@ Feature: Testbot - Handle ferry routes
  		 | defg  |         | ferry | 0:01     |
 
  		When I route I should get
- 		 | from | to | route    | time      |
- 		 | a    | g  | xa,xy,yg | 60s +-25% |
- 		 | g    | a  | yg,xy,xa | 60s +-25% |
+ 		 | from | to | route    | time    |
+ 		 | a    | g  | xa,xy,yg | 40s +-1 |
+ 		 | g    | a  | yg,xy,xa | 40s +-1 |
 
  	Scenario: Testbot - Long winding ferry route
  		Given the node map
@@ -173,3 +192,54 @@ Feature: Testbot - Handle ferry routes
  		 | from | to | route   | time       |
  		 | a    | g  | abcdefg | 23400s +-1 |
  		 | g    | a  | abcdefg | 23400s +-1 |
+ 		 
+	Scenario: Testbot - Ferry routes fan
+  		Given the node map
+  		  | a | x | y | b |
+  		  |   |   | z |   |
+  		  |   | q |   |   |
+
+  		And the ways
+  		 | nodes | highway | route | duration |
+  		 | ax    | primary |       |          |
+  		 | xy    |         | ferry | 1:00     |
+  		 | xz    |         | ferry | 1:00     |
+  		 | xq    |         | ferry | 1:00     |
+  		 | yb    | primary |       |          |
+
+  		When I route I should get
+  		 | from | to | route | time      |
+  		 | x    | y  | xy    | 3600s +-1 |
+  		 | y    | x  | xy    | 3600s +-1 |
+      	
+     Scenario: Testbot - Ferry routes criss-cross
+   		Given the node map
+   		  | a | x | s | e | m |
+   		  | b | y | t | f |   |
+   		  | c | z | u | g |   |
+
+   		And the ways
+   		 | nodes | highway | route | duration |
+   		 | ax    | primary |       |          |
+   		 | by    | primary |       |          |
+   		 | cz    | primary |       |          |
+   		 | se    | primary |       |          |
+   		 | tf    | primary |       |          |
+   		 | ug    | primary |       |          |
+   		 | xs    |         | ferry | 0:10     |
+   		 | xy    |         | ferry | 0:10     |
+   		 | xu    |         | ferry | 0:10     |
+   		 | ys    |         | ferry | 0:10     |
+   		 | yu    |         | ferry | 0:10     |
+   		 | zs    |         | ferry | 0:10     |
+   		 | zu    |         | ferry | 0:10     |
+
+   		When I route I should get
+   		 | from | to | route | time      |
+   		 | x    | s  | xs    | 600s +-10 |
+   		 | x    | y  | xy    | 600s +-10 |
+   		 | x    | u  | xu    | 600s +-10 |
+   		 | y    | s  | ys    | 600s +-10 |
+   		 | y    | u  | yu    | 600s +-10 |
+   		 | z    | s  | zs    | 600s +-10 |
+   		 | z    | u  | zu    | 600s +-10 |

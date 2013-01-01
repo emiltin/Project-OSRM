@@ -165,8 +165,7 @@ function way_function (way, numberOfNodesInWay)
 		way.direction = Way.bidirectional
 		way.ignore_in_grid = true
 		if durationIsValid(duration) then
-			way.speed = math.max( parseDuration(duration) / math.max(1, numberOfNodesInWay-1) )
-		 	way.is_duration_set = true
+			way.duration = parseDuration(duration)
 		else
 		 	way.speed = route_speeds[route]
 		end

@@ -52,10 +52,10 @@ struct _Way {
 		keyVals.EraseAll();
         direction = _Way::notSure;
         speed = -1;
+        duration = -1;
         type = -1;
         access = true;
         roundabout = false;
-        isDurationSet = false;
         isAccessRestricted = false;
         ignoreInGrid = false;
     }
@@ -67,10 +67,10 @@ struct _Way {
     unsigned nameID;
     std::string name;
     double speed;
+    double duration;
     short type;
     bool access;
     bool roundabout;
-    bool isDurationSet;
     bool isAccessRestricted;
     bool ignoreInGrid;
     std::vector< NodeID > path;
@@ -86,33 +86,66 @@ struct _Relation {
 };
 
 struct _Edge {
-    _Edge() : start(0), target(0), type(0), direction(0), speed(0), nameID(0), isRoundabout(false), ignoreInGrid(false), isDurationSet(false), isAccessRestricted(false) {};
-    _Edge(NodeID s, NodeID t) : start(s), target(t), type(0), direction(0), speed(0), nameID(0), isRoundabout(false), ignoreInGrid(false), isDurationSet(false), isAccessRestricted(false) { }
-    _Edge(NodeID s, NodeID t, short tp, short d, double sp): start(s), target(t), type(tp), direction(d), speed(sp), nameID(0), isRoundabout(false), ignoreInGrid(false), isDurationSet(false), isAccessRestricted(false) { }
-    _Edge(NodeID s, NodeID t, short tp, short d, double sp, unsigned nid, bool isra, bool iing, bool ids, bool iar): start(s), target(t), type(tp), direction(d), speed(sp), nameID(nid), isRoundabout(isra), ignoreInGrid(iing), isDurationSet(ids), isAccessRestricted(iar) {
+    _Edge() : wayID(0), start(0), target(0), type(0), direction(0), speed(0), duration(0), nameID(0), isRoundabout(false), ignoreInGrid(false), isAccessRestricted(false) {};
+    _Edge(unsigned wid, NodeID s, NodeID t) : wayID(wid), start(s), target(t), type(0), direction(0), speed(0), duration(0), nameID(0), isRoundabout(false), ignoreInGrid(false), isAccessRestricted(false) {}
+    _Edge(unsigned wid, NodeID s, NodeID t, short tp, short d, double sp, unsigned nid, bool isra, bool iing, double duration, bool iar): wayID(wid), start(s), target(t), type(tp), direction(d), speed(sp), nameID(nid), isRoundabout(isra), ignoreInGrid(iing), duration(duration), isAccessRestricted(iar) {
         assert(0 <= type);
     }
+    unsigned wayID;
     NodeID start;
     NodeID target;
     short type;
     short direction;
     double speed;
+    double duration;
     unsigned nameID;
     bool isRoundabout;
     bool ignoreInGrid;
-    bool isDurationSet;
     bool isAccessRestricted;
 
     _Coordinate startCoord;
     _Coordinate targetCoord;
 
     static _Edge min_value() {
-        return _Edge(0,0);
+        return _Edge(0,0,0);
     }
     static _Edge max_value() {
-        return _Edge((std::numeric_limits<unsigned>::max)(), (std::numeric_limits<unsigned>::max)());
+        return _Edge(0,(std::numeric_limits<unsigned>::max)(), (std::numeric_limits<unsigned>::max)());
     }
 
+};
+
+struct _EdgeDistance {
+    _EdgeDistance() : wayID(0), distance(0) {}
+    _EdgeDistance(unsigned wayID, double distance) : wayID(wayID), distance(distance) {}
+
+    static _EdgeDistance min_value() {
+        return _EdgeDistance(0,0);
+    }
+    static _EdgeDistance max_value() {
+        return _EdgeDistance((std::numeric_limits<unsigned>::max)(),0);
+    }
+
+    unsigned wayID;
+    double distance;
+};
+
+struct _WayDistance {
+    _WayDistance() : wayID(0), distance(0) {}
+    _WayDistance(unsigned wayID, double distance) : wayID(wayID), distance(distance) {}
+
+    static _WayDistance min_value() {
+        return _WayDistance(0,0);
+    }
+    static _WayDistance max_value() {
+        return _WayDistance((std::numeric_limits<unsigned>::max)(),0);
+    }
+    bool operator == (const _WayDistance & b) const
+    {
+        return this->wayID == b.wayID;
+    }
+    unsigned wayID;
+    double distance;
 };
 
 struct _WayIDStartAndEndEdge {
@@ -202,6 +235,40 @@ struct CmpEdgeByTargetID : public std::binary_function<_Edge, _Edge, bool>
     }
 };
 
+struct CmpEdgeDistancesByWayID : public std::binary_function<_WayDistance, _WayDistance, bool>
+{
+    typedef _EdgeDistance value_type;
+    bool operator ()  (const _EdgeDistance & a, const _EdgeDistance & b) const
+    {
+        return a.wayID < b.wayID;
+    }
+    value_type max_value()
+    {
+        return _EdgeDistance::max_value();
+    }
+    value_type min_value()
+    {
+        return _EdgeDistance::min_value();
+    }
+};
+
+
+struct CmpWayDistancesByWayID : public std::binary_function<_WayDistance, _WayDistance, bool>
+{
+    typedef _WayDistance value_type;
+    bool operator () (const _WayDistance & a, const _WayDistance & b) const
+    {
+        return a.wayID < b.wayID;
+    }
+    value_type max_value()
+    {
+        return _WayDistance::max_value();
+    }
+    value_type min_value()
+    {
+        return _WayDistance::min_value();
+    }
+};
 inline std::string GetRandomString() {
     char s[128];
     static const char alphanum[] =
