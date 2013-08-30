@@ -1,0 +1,3889 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.42-6-gf39a160-dirty">
+  <bounds minlon="12.56879" minlat="55.65825" maxlon="12.57783" maxlat="55.66252" origin="0.42-6-gf39a160-dirty"/>
+  <node id="8088600" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612115" lon="12.5694736"/>
+  <node id="8088601" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606481" lon="12.5707843"/>
+  <node id="8088602" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602463" lon="12.5717242"/>
+  <node id="8088603" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660027" lon="12.5723008"/>
+  <node id="8088604" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660184" lon="12.5725037"/>
+  <node id="8088605" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604146" lon="12.5719299"/>
+  <node id="8088606" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608264" lon="12.5709936"/>
+  <node id="8088607" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614084" lon="12.5696599"/>
+  <node id="8088608" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659941" lon="12.5727592"/>
+  <node id="8088609" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606727" lon="12.5736932"/>
+  <node id="8088610" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603422" lon="12.5732619"/>
+  <node id="8088611" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618309" lon="12.5722569">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="8088612" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598119" lon="12.569705"/>
+  <node id="8088613" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609763" lon="12.572595">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="8088614" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593392" lon="12.5704915"/>
+  <node id="8088620" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622654" lon="12.5729163"/>
+  <node id="8088621" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622401" lon="12.5748956"/>
+  <node id="8088622" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612733" lon="12.573647">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="18311956" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618436" lon="12.577506"/>
+  <node id="18311957" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617952" lon="12.5773344"/>
+  <node id="18311958" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622974" lon="12.5769301"/>
+  <node id="18311966" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6625094" lon="12.5770235"/>
+  <node id="20908318" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584974" lon="12.5699068"/>
+  <node id="20908319" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590683" lon="12.5704381"/>
+  <node id="20908322" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6587025" lon="12.5688595"/>
+  <node id="20908323" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617304" lon="12.5707471"/>
+  <node id="20908324" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617976" lon="12.5714195">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="20908325" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612978" lon="12.5708021"/>
+  <node id="20908326" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614792" lon="12.5703421"/>
+  <node id="20908327" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611799" lon="12.5711065"/>
+  <node id="20908328" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613749" lon="12.5716853"/>
+  <node id="20908329" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615674" lon="12.5711409"/>
+  <node id="20908330" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662394" lon="12.5708795"/>
+  <node id="20908331" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621792" lon="12.5714366"/>
+  <node id="20908332" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620109" lon="12.5718426"/>
+  <node id="20908333" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661838" lon="12.5716328"/>
+  <node id="20908334" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623706" lon="12.5716662">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="25415255" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596825" lon="12.5733058"/>
+  <node id="25415256" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604375" lon="12.5742762"/>
+  <node id="25415257" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603462" lon="12.5778247"/>
+  <node id="25415496" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6582659" lon="12.5723138"/>
+  <node id="26034710" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599035" lon="12.5769405"/>
+  <node id="26034711" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599918" lon="12.5769296"/>
+  <node id="26034712" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600708" lon="12.5769366"/>
+  <node id="31828136" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615699" lon="12.5687934"/>
+  <node id="31828137" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613369" lon="12.5695949"/>
+  <node id="274397796" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599939" lon="12.576117"/>
+  <node id="274397835" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603637" lon="12.5748563"/>
+  <node id="274397836" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608995" lon="12.5743389"/>
+  <node id="274397875" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599597" lon="12.5765316"/>
+  <node id="274397898" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624601" lon="12.5769162">
+    <tag k="amenity" v="parking"/>
+    <tag k="created_by" v="Potlatch 0.9c"/>
+  </node>
+  <node id="277633993" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609324" lon="12.5688152"/>
+  <node id="277633994" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610201" lon="12.5689241"/>
+  <node id="277633995" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611225" lon="12.5689099"/>
+  <node id="293738445" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595615" lon="12.5739903"/>
+  <node id="293738449" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6594213" lon="12.5745551"/>
+  <node id="293738453" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6594256" lon="12.57575"/>
+  <node id="297482710" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618586" lon="12.5692568"/>
+  <node id="297482711" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616731" lon="12.5697005"/>
+  <node id="297482712" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618321" lon="12.5699008"/>
+  <node id="297482713" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619049" lon="12.5697355"/>
+  <node id="297482714" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620916" lon="12.5699999"/>
+  <node id="297482715" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662205" lon="12.5697326"/>
+  <node id="340487362" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611037" lon="12.5761001">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="71A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="71A"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E7132B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487365" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609775" lon="12.5757067">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="71B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="71B"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E7232B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487367" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660877" lon="12.5753732">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="71C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="71C"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E7332B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487369" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607633" lon="12.5750058">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="71D"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="71D"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E7432B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487382" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616403" lon="12.5762894">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="90"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E7F32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487388" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595487" lon="12.5719708">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="104"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8532B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487390" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6594476" lon="12.5718369">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="106"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8632B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487392" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591859" lon="12.5715046">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="108"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="3CAE7253082A0F90E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-06-10T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487394" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588337" lon="12.5710448">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="112"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8932B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2008-04-04T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487396" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6586864" lon="12.5708556">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="114"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8A32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2008-05-27T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487399" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585556" lon="12.5706782">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="116"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8B32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2008-05-27T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487403" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584311" lon="12.5705283">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="118"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8C32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2008-05-27T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340487406" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583238" lon="12.5703877">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="120"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Artillerivej"/>
+    <tag k="kms:street_no" v="0232"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3E8D32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2008-05-27T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340488450" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612266" lon="12.5703693">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="3"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Axel Heides Gade"/>
+    <tag k="kms:street_no" v="0288"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A3FAD32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-10-31T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340520127" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662094" lon="12.5707644">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="67"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Islands Brygge"/>
+    <tag k="kms:street_no" v="3300"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A9B1032B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-10-31T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340520130" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617582" lon="12.570421">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="69"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Islands Brygge"/>
+    <tag k="kms:street_no" v="3300"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A9B1232B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-10-31T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340520131" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607568" lon="12.5695784">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="71"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Islands Brygge"/>
+    <tag k="kms:street_no" v="3300"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A9B1432B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523074" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623264" lon="12.5774602">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="3"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53532B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523077" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.66248" lon="12.576127">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="6"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53732B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523078" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624244" lon="12.5763459">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8A"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53832B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523079" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624027" lon="12.5764482">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8B"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53932B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523081" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622768" lon="12.5765484">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8C"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53A32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523082" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621363" lon="12.5767561">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8D"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8D"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53B32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523084" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619745" lon="12.5765401">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8E"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8E"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53C32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523085" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621041" lon="12.5763056">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8F"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8F"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53D32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523086" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622761" lon="12.5761605">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8G"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8G"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53E32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523088" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.66211" lon="12.5764805">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8H"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8H"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA53F32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523089" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623023" lon="12.5759431">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8K"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8K"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA54032B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523090" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618632" lon="12.5761644">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8M"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8M"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA54132B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523091" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621814" lon="12.5757801">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8N"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="8N"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA54232B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340523093" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619012" lon="12.5771074">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="10"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Kigkurren"/>
+    <tag k="kms:street_no" v="3640"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507AA54332B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340552088" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624418" lon="12.5751031">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="12C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Sturlasgade"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="12C"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Sturlasgade"/>
+    <tag k="kms:street_no" v="7076"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507B048E32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340552090" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623922" lon="12.5750422">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="12D"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Sturlasgade"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="12D"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Sturlasgade"/>
+    <tag k="kms:street_no" v="7076"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507B048F32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="340552091" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623443" lon="12.5749919">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="12E"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Sturlasgade"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="12E"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:parish_name" v="Islands Brygge,Kbhvn"/>
+    <tag k="kms:parish_no" v="7080"/>
+    <tag k="kms:street_name" v="Sturlasgade"/>
+    <tag k="kms:street_no" v="7076"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="48154B07BA501D3EE0440003BA298018"/>
+    <tag k="osak:revision" v="2002-04-08T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="344021043" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621446" lon="12.5718054">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="created_by" v="FindvejBot v0.1"/>
+    <tag k="kms:county_name" v="Københavns Amtskommune"/>
+    <tag k="kms:county_no" v="15"/>
+    <tag k="kms:house_no" v="65"/>
+    <tag k="kms:last_updated" v="2002"/>
+    <tag k="kms:municipality_name" v="København"/>
+    <tag k="kms:municipality_no" v="101"/>
+    <tag k="kms:street_name" v="Islands Brygge"/>
+    <tag k="kms:street_no" v="3300"/>
+    <tag k="kms:zip_name" v="København S"/>
+    <tag k="kms:zip_no" v="2300"/>
+    <tag k="osak:identifier" v="0A3F507A9B0C32B8E0440003BA298018"/>
+    <tag k="osak:revision" v="2002-12-10T00:00:00"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="354494592" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583532" lon="12.5747515"/>
+  <node id="354494594" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583852" lon="12.5748207"/>
+  <node id="354494603" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584968" lon="12.5747888"/>
+  <node id="354494606" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585713" lon="12.5748153"/>
+  <node id="354494607" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588" lon="12.5744803"/>
+  <node id="354494609" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590021" lon="12.5743792"/>
+  <node id="354494612" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591085" lon="12.5745175"/>
+  <node id="354494614" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593942" lon="12.5746667"/>
+  <node id="364123286" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624488" lon="12.5767164"/>
+  <node id="456042970" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607785" lon="12.5739097"/>
+  <node id="677512543" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601982" lon="12.5727309">
+    <tag k="name" v="Netto"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="677512802" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595293" lon="12.5723895">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="250S"/>
+  </node>
+  <node id="677513055" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6594888" lon="12.5718505">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="250S"/>
+  </node>
+  <node id="733458052" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617439" lon="12.5697098">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="30A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9AED32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-06-03T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458053" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661836" lon="12.5694308">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="30B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9AEE32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-08-12T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458054" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618621" lon="12.5693688">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="30C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9AEF32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-08-12T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458072" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624314" lon="12.5712171">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="63C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9B0B32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2002-12-10T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458080" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602371" lon="12.5691781">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9B1632B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-05-18T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458081" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660061" lon="12.5691768">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="75A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9B1832B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-05-18T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458082" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599796" lon="12.5693658">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="75B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Islands Brygge"/>
+    <tag k="osak:identifier" v="0A3F507A9B1932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-05-18T00:00:00"/>
+    <tag k="osak:street_no" v="3300"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458326" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590706" lon="12.5689762">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4232B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-11-07T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458328" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659127" lon="12.5690169">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4432B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-11-07T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458330" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590144" lon="12.5694841">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4632B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-11-07T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458333" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590543" lon="12.5695166">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4832B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-11-07T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458334" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585634" lon="12.5688041">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-06-02T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458335" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588588" lon="12.5701367">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4A32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-11-07T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458336" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584949" lon="12.5690609">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4B32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-06-02T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458337" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6589025" lon="12.5701809">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4C32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-11-07T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="733458338" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583387" lon="12.5694577">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Jens Otto Krags Gade"/>
+    <tag k="osak:identifier" v="0A3F507A9E4D32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-06-02T00:00:00"/>
+    <tag k="osak:street_no" v="3386"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="736990877" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601601" lon="12.5734307">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="0A3F507A3E7932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-03-14T00:00:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="736990879" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617596" lon="12.5767221">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="0A3F507A3E7E32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-01-07T00:00:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="736990880" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605443" lon="12.5731894">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="100A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="0A3F507A3E8132B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="736990881" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604647" lon="12.5731594">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="100B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="0A3F507A3E8232B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="736990882" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603206" lon="12.5729743">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="100C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="0A3F507A3E8332B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168057" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613835" lon="12.5699632">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FAB32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2002-10-31T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168058" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609338" lon="12.5698031">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FAC32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168059" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608098" lon="12.5700896">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FAE32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168060" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607556" lon="12.5714607">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB032B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168061" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606574" lon="12.5716831">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB132B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168062" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606963" lon="12.5703508">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB232B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168064" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603282" lon="12.5724728">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB332B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168065" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602492" lon="12.5727144">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB432B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168066" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601982" lon="12.5727896">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB532B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168067" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604218" lon="12.5701456">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB632B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168069" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602731" lon="12.5699423">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB732B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168070" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660116" lon="12.5697412">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB832B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168071" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600053" lon="12.5696054">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8D"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FB932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-05-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168072" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604235" lon="12.5707899">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FBC32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168073" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602848" lon="12.5706162">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FBD32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168074" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601462" lon="12.5704286">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FBE32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168075" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598851" lon="12.5700857">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FBF32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168076" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597696" lon="12.5699308">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FC032B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168078" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604146" lon="12.5710207">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FC132B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168079" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660291" lon="12.5713192">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FC232B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168080" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600383" lon="12.5719163">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FC332B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168081" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659962" lon="12.5720966">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FC432B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="737168082" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598863" lon="12.5722755">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Axel Heides Gade"/>
+    <tag k="osak:identifier" v="0A3F507A3FC532B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="0288"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="750602291" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599109" lon="12.577075"/>
+  <node id="750602297" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600198" lon="12.5772681"/>
+  <node id="752542744" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600175" lon="12.5765111"/>
+  <node id="870277229" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615411" lon="12.5698922">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="976351353" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6625168" lon="12.5738163">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56E832B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-09-17T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351378" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623898" lon="12.5741244">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56E932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-09-17T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351380" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622613" lon="12.574427">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56EA32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-09-17T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351383" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620228" lon="12.5743189">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56EB32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-10T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351386" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618627" lon="12.5741272">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56EC32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-10T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351392" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617012" lon="12.5738891">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56ED32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-08T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351395" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614514" lon="12.5735744">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="0A3F507A56EE32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-10T00:00:00"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351500" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606266" lon="12.5719155">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57EA32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351504" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660487" lon="12.5723523">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="2A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57EB32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351506" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606225" lon="12.5725289">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="2B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57EC32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351509" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607734" lon="12.5727232">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="2C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57ED32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2003-10-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351514" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660746" lon="12.5720877">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57EE32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351519" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608617" lon="12.5722147">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57EF32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351524" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660986" lon="12.5723398">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57F032B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-04-15T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976351525" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.66113" lon="12.5725878">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="J.C. Christensens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A57F132B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1106"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352096" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608575" lon="12.5713646">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690832B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352098" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609705" lon="12.5715242">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352109" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613157" lon="12.5715935">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690A32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2002-11-06T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352111" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611893" lon="12.5718099">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690B32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352114" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661608" lon="12.5717349">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690C32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-01-22T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352119" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613206" lon="12.5719822">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690D32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352124" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617389" lon="12.5719058">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690E32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-01-22T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352128" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614539" lon="12.5721543">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A690F32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352135" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618771" lon="12.5720902">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A691032B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-01-22T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976352160" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615546" lon="12.5722962">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Erik Eriksens Gade"/>
+    <tag k="osak:identifier" v="0A3F507A691132B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2004-07-23T00:00:00"/>
+    <tag k="osak:street_no" v="1638"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976353338" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623977" lon="12.573427">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Hans Hedtofts Gade"/>
+    <tag k="osak:identifier" v="0A3F507A83F932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-06-20T00:00:00"/>
+    <tag k="osak:street_no" v="2591"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976353348" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621731" lon="12.5731716">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Hans Hedtofts Gade"/>
+    <tag k="osak:identifier" v="0A3F507A83FB32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-06-20T00:00:00"/>
+    <tag k="osak:street_no" v="2591"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976353352" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6625173" lon="12.572945">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Hans Hedtofts Gade"/>
+    <tag k="osak:identifier" v="0A3F507A83FC32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-06-10T00:00:00"/>
+    <tag k="osak:street_no" v="2591"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359103" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599408" lon="12.5709536">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBB632B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-06-15T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359105" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598277" lon="12.571375">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBB732B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359108" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597908" lon="12.570762">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBB832B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359116" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596721" lon="12.5712149">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBB932B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359118" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596579" lon="12.5705853">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBBA32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359120" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595245" lon="12.5710189">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBBB32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359123" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595401" lon="12.5704281">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBBC32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2005-02-18T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="976359125" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593757" lon="12.57082">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Poul Hartlings Gade"/>
+    <tag k="osak:identifier" v="0A3F507ADBBD32B8E0440003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2006-02-06T00:00:00"/>
+    <tag k="osak:street_no" v="5585"/>
+    <tag k="source" v="OSAK (2010)"/>
+  </node>
+  <node id="1029584054" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662505" lon="12.5723793"/>
+  <node id="1029584056" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609872" lon="12.5737985"/>
+  <node id="1029584058" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620221" lon="12.5727041"/>
+  <node id="1029584059" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620325" lon="12.5723916"/>
+  <node id="1029584061" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617038" lon="12.5727284"/>
+  <node id="1029584068" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621095" lon="12.5726525"/>
+  <node id="1029584070" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615198" lon="12.5728651"/>
+  <node id="1029584071" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621492" lon="12.572629"/>
+  <node id="1029584073" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612815" lon="12.5728924"/>
+  <node id="1029584078" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622944" lon="12.5724574"/>
+  <node id="1029584079" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611143" lon="12.5736161"/>
+  <node id="1029584080" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611755" lon="12.5732148"/>
+  <node id="1041801211" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614331" lon="12.5744274"/>
+  <node id="1041801217" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613296" lon="12.5740842"/>
+  <node id="1041801223" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610842" lon="12.5745443"/>
+  <node id="1041801226" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614867" lon="12.5758962"/>
+  <node id="1041801229" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615103" lon="12.5743571"/>
+  <node id="1041801232" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618758" lon="12.5755225"/>
+  <node id="1041801235" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611569" lon="12.57448"/>
+  <node id="1041801246" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611059" lon="12.5743149"/>
+  <node id="1068179487" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596341" lon="12.5765774"/>
+  <node id="1068179490" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598905" lon="12.5760903"/>
+  <node id="1068179502" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584113" lon="12.577566"/>
+  <node id="1068179566" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6589844" lon="12.5757244"/>
+  <node id="1068894509" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601458" lon="12.5752034"/>
+  <node id="1068894514" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6589838" lon="12.5746026"/>
+  <node id="1068894526" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6582696" lon="12.5747957"/>
+  <node id="1068894574" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6589111" lon="12.5753321"/>
+  <node id="1068894575" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6587538" lon="12.5748171"/>
+  <node id="1068894595" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604121" lon="12.5742807"/>
+  <node id="1335192929" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619991" lon="12.5759078">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8P"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="osak:identifier" v="621684F5-0F27-56C0-E044-0003BA298018"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2009-01-15T12:00:00"/>
+    <tag k="osak:street_no" v="3640"/>
+    <tag k="source" v="OSAK (2011)"/>
+  </node>
+  <node id="1374722516" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602807" lon="12.5717604"/>
+  <node id="1374722534" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606785" lon="12.5708232"/>
+  <node id="1374722566" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600566" lon="12.572507"/>
+  <node id="1374722572" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607853" lon="12.5709558"/>
+  <node id="1374722573" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603873" lon="12.5718988"/>
+  <node id="1418364035" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618932" lon="12.5763589">
+    <tag k="operator" v="DONG Energy"/>
+    <tag k="power" v="sub_station"/>
+    <tag k="ref" v="630"/>
+    <tag k="voltage" v="10000"/>
+  </node>
+  <node id="1418364054" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620372" lon="12.5769504">
+    <tag k="operator" v="DONG Energy"/>
+    <tag k="power" v="sub_station"/>
+    <tag k="ref" v="974"/>
+    <tag k="voltage" v="10000"/>
+  </node>
+  <node id="1418364055" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623324" lon="12.5763215">
+    <tag k="operator" v="DONG Energy"/>
+    <tag k="power" v="sub_station"/>
+    <tag k="ref" v="1640"/>
+    <tag k="voltage" v="10000"/>
+  </node>
+  <node id="1432721049" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596846" lon="12.5698883"/>
+  <node id="1432721054" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659367" lon="12.5718162"/>
+  <node id="1432721057" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596891" lon="12.5698079"/>
+  <node id="1432721074" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659239" lon="12.5708479"/>
+  <node id="1432721076" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612743" lon="12.5705169"/>
+  <node id="1432721092" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597035" lon="12.569848"/>
+  <node id="1432721094" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611593" lon="12.570366"/>
+  <node id="1432721096" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610576" lon="12.5710359"/>
+  <node id="1432721102" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583398" lon="12.5711755"/>
+  <node id="1432721107" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.658263" lon="12.5711581"/>
+  <node id="1432721109" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611353" lon="12.572281"/>
+  <node id="1432721112" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598629" lon="12.5724507"/>
+  <node id="1432721115" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596165" lon="12.5699795"/>
+  <node id="1432721119" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599168" lon="12.5703616"/>
+  <node id="1432721125" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612487" lon="12.5724274"/>
+  <node id="1432721126" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6582832" lon="12.5711062"/>
+  <node id="1432721128" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597637" lon="12.5723177"/>
+  <node id="1432721167" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599826" lon="12.5701887"/>
+  <node id="1432721168" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596656" lon="12.5698681"/>
+  <node id="1432721175" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6582547" lon="12.5713633"/>
+  <node id="1432721178" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597758" lon="12.5712686"/>
+  <node id="1432721179" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611333" lon="12.5716434"/>
+  <node id="1432721180" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609426" lon="12.570885"/>
+  <node id="1432721185" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601221" lon="12.5718434"/>
+  <node id="1432721187" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596666" lon="12.5719399"/>
+  <node id="1432721188" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611649" lon="12.5726313"/>
+  <node id="1432721198" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6582865" lon="12.571283"/>
+  <node id="1432721202" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596987" lon="12.5714528"/>
+  <node id="1432721209" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615902" lon="12.5724991"/>
+  <node id="1432721214" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583196" lon="12.5712274"/>
+  <node id="1432721217" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610664" lon="12.5718011"/>
+  <node id="1432721220" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616571" lon="12.5723415"/>
+  <node id="1432721222" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659443" lon="12.5716388"/>
+  <node id="1432721224" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624765" lon="12.5707689"/>
+  <node id="1432721225" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660023" lon="12.5717104"/>
+  <node id="1432721228" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593161" lon="12.5706637"/>
+  <node id="1432721231" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595907" lon="12.5721173"/>
+  <node id="1432721234" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610515" lon="12.5724849"/>
+  <node id="1432721235" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596838" lon="12.5698225"/>
+  <node id="1474889175" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624012" lon="12.5724297"/>
+  <node id="1474889177" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618031" lon="12.5727063"/>
+  <node id="1474889178" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623372" lon="12.5724274"/>
+  <node id="1474889179" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615908" lon="12.5728213"/>
+  <node id="1474889180" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661222" lon="12.5730635"/>
+  <node id="1504067898" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591321" lon="12.5702369"/>
+  <node id="1504067921" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585634" lon="12.569432"/>
+  <node id="1504067926" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599706" lon="12.5690433"/>
+  <node id="1504067930" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588716" lon="12.5697868"/>
+  <node id="1520471640" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621684" lon="12.5762223">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8R"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="osak:identifier" v="8117A815-34C8-45EE-97C1-29B84AD0DBD9"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2010-11-22T11:59:00"/>
+    <tag k="osak:street_no" v="3640"/>
+    <tag k="source" v="OSAK (2011)"/>
+  </node>
+  <node id="1520471651" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622337" lon="12.5761519">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8S"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="osak:identifier" v="ADC12E0A-7AF0-4A84-8B5A-38F9A7B2425C"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2010-11-19T11:59:00"/>
+    <tag k="osak:street_no" v="3640"/>
+    <tag k="source" v="OSAK (2011)"/>
+  </node>
+  <node id="1520471654" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620888" lon="12.5757938">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="8T"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Kigkurren"/>
+    <tag k="osak:identifier" v="D66665D4-D795-4E92-9E4D-F68C710A1DCF"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2010-11-22T11:59:00"/>
+    <tag k="osak:street_no" v="3640"/>
+    <tag k="source" v="OSAK (2011)"/>
+  </node>
+  <node id="1535294653" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591774" lon="12.5700434"/>
+  <node id="1615544402" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6582821" lon="12.5723917"/>
+  <node id="1615544403" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583743" lon="12.5723148"/>
+  <node id="1615544404" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584474" lon="12.5722345"/>
+  <node id="1615544405" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585566" lon="12.5719837"/>
+  <node id="1615544406" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588527" lon="12.571304"/>
+  <node id="1615544407" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591474" lon="12.5728004"/>
+  <node id="1615544408" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593536" lon="12.5729639"/>
+  <node id="1615544409" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595218" lon="12.5729735"/>
+  <node id="1615544410" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6596357" lon="12.5727427"/>
+  <node id="1615544411" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597439" lon="12.5724803"/>
+  <node id="1615580219" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583196" lon="12.5699359"/>
+  <node id="1615580220" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588118" lon="12.5689678"/>
+  <node id="1615580221" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6589006" lon="12.570458"/>
+  <node id="1615580223" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6588915" lon="12.5691612"/>
+  <node id="1615580224" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590307" lon="12.5706426"/>
+  <node id="1615580226" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590741" lon="12.5705343"/>
+  <node id="1615580227" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591073" lon="12.5710207"/>
+  <node id="1615580228" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590908" lon="12.5699781"/>
+  <node id="1615580229" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6590826" lon="12.5693586"/>
+  <node id="1615580230" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6591971" lon="12.5693784"/>
+  <node id="1615580231" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659344" lon="12.5693619"/>
+  <node id="1615580233" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593913" lon="12.5691565"/>
+  <node id="1615580234" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6594331" lon="12.5689519"/>
+  <node id="1615580236" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597188" lon="12.5695936"/>
+  <node id="1638223212" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623914" lon="12.5773448"/>
+  <node id="1638223213" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602391" lon="12.577645"/>
+  <node id="1638223378" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624852" lon="12.5773824"/>
+  <node id="1638223397" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624081" lon="12.5774335"/>
+  <node id="1638499454" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624322" lon="12.5776746"/>
+  <node id="1638499456" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608425" lon="12.5715553"/>
+  <node id="1638499464" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599916" lon="12.5690954"/>
+  <node id="1638499474" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622597" lon="12.5709359"/>
+  <node id="1638499475" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622175" lon="12.5720465"/>
+  <node id="1638499477" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621643" lon="12.5778019"/>
+  <node id="1638499478" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624791" lon="12.5727425"/>
+  <node id="1638499480" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603882" lon="12.569089"/>
+  <node id="1638499481" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623129" lon="12.5718065"/>
+  <node id="1638499494" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606437" lon="12.5695997"/>
+  <node id="1638499495" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608582" lon="12.5727605"/>
+  <node id="1638499497" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621087" lon="12.5775799"/>
+  <node id="1638499498" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610705" lon="12.5715942"/>
+  <node id="1638499499" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606877" lon="12.570583"/>
+  <node id="1638499500" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662305" lon="12.5776812"/>
+  <node id="1638499504" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607103" lon="12.5718715"/>
+  <node id="1638499510" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661501" lon="12.5702153"/>
+  <node id="1638499516" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662349" lon="12.5773796"/>
+  <node id="1638499526" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600945" lon="12.5702756"/>
+  <node id="1638499532" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605743" lon="12.570135"/>
+  <node id="1638499534" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621711" lon="12.5716294"/>
+  <node id="1638499536" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660291" lon="12.5727318"/>
+  <node id="1638499539" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600387" lon="12.569435"/>
+  <node id="1638499540" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662022" lon="12.5715175"/>
+  <node id="1638499551" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613134" lon="12.5703707"/>
+  <node id="1638499554" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662425" lon="12.5728708"/>
+  <node id="1638499555" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603456" lon="12.5709274"/>
+  <node id="1638499556" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624517" lon="12.5778072"/>
+  <node id="1638499557" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624156" lon="12.5776826"/>
+  <node id="1638499560" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616243" lon="12.5703818"/>
+  <node id="1638499568" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612624" lon="12.5705013"/>
+  <node id="1638499577" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604089" lon="12.5721734"/>
+  <node id="1638499591" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601484" lon="12.5727999"/>
+  <node id="1638499595" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618148" lon="12.570399"/>
+  <node id="1638499598" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6595252" lon="12.5701905"/>
+  <node id="1638499606" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617816" lon="12.5708244"/>
+  <node id="1638499608" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600109" lon="12.5704774"/>
+  <node id="1638499612" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608207" lon="12.5712519"/>
+  <node id="1638499613" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623988" lon="12.5710803"/>
+  <node id="1638499616" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619192" lon="12.5704982"/>
+  <node id="1638499617" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605767" lon="12.5704462"/>
+  <node id="1638499618" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605441" lon="12.5733168"/>
+  <node id="1638499619" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608633" lon="12.5697729"/>
+  <node id="1638499620" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603246" lon="12.5693572"/>
+  <node id="1638499621" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605487" lon="12.5719096"/>
+  <node id="1638499622" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610433" lon="12.569604"/>
+  <node id="1638499632" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618755" lon="12.5709465"/>
+  <node id="1638499633" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610012" lon="12.5717534"/>
+  <node id="1638499634" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607928" lon="12.5729042"/>
+  <node id="1638499636" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609826" lon="12.5722309"/>
+  <node id="1638499637" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6606126" lon="12.573152"/>
+  <node id="1638499638" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613867" lon="12.570465"/>
+  <node id="1638499641" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619012" lon="12.5709907"/>
+  <node id="1638499645" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601597" lon="12.5713715"/>
+  <node id="1638499646" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607118" lon="12.5693556"/>
+  <node id="1638499648" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613262" lon="12.5699795"/>
+  <node id="1638499655" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613987" lon="12.5698223"/>
+  <node id="1638499656" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614291" lon="12.5708485"/>
+  <node id="1638499657" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618573" lon="12.5713098"/>
+  <node id="1638499658" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602583" lon="12.5714972"/>
+  <node id="1638499661" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620757" lon="12.5718695"/>
+  <node id="1638499663" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604272" lon="12.5724226"/>
+  <node id="1638499671" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619813" lon="12.5776183"/>
+  <node id="1638499677" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619556" lon="12.571055"/>
+  <node id="1638499679" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620918" lon="12.5775137"/>
+  <node id="1638499682" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605289" lon="12.5708431"/>
+  <node id="1638499692" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600644" lon="12.5688529"/>
+  <node id="1638499696" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659851" lon="12.569443"/>
+  <node id="1638499698" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598623" lon="12.5709251"/>
+  <node id="1638499701" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6605016" lon="12.5703335"/>
+  <node id="1638499702" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609148" lon="12.5723916"/>
+  <node id="1638499703" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659446" lon="12.570381"/>
+  <node id="1638499713" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619388" lon="12.5707986"/>
+  <node id="1638499717" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619632" lon="12.5708297"/>
+  <node id="1638499718" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615517" lon="12.5710041"/>
+  <node id="1638499719" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599415" lon="12.5707346"/>
+  <node id="1638499722" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601309" lon="12.5692124"/>
+  <node id="1638499723" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662314" lon="12.5713029"/>
+  <node id="1638499728" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610327" lon="12.5697434"/>
+  <node id="1639978365" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624209" lon="12.5753932"/>
+  <node id="1639978367" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620887" lon="12.5729701"/>
+  <node id="1639978368" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623263" lon="12.573241"/>
+  <node id="1639978369" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603219" lon="12.5735921"/>
+  <node id="1639978370" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6612884" lon="12.5734368"/>
+  <node id="1639978371" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618512" lon="12.576237"/>
+  <node id="1639978375" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622888" lon="12.5762314"/>
+  <node id="1639978378" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622552" lon="12.576186"/>
+  <node id="1639978379" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601097" lon="12.5736379"/>
+  <node id="1639978382" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602989" lon="12.5735226"/>
+  <node id="1639978384" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622128" lon="12.5746465"/>
+  <node id="1639978385" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623096" lon="12.5732705"/>
+  <node id="1639978394" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616212" lon="12.5736004"/>
+  <node id="1639978396" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603972" lon="12.5736648"/>
+  <node id="1639978401" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600522" lon="12.5732061"/>
+  <node id="1639978404" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661493" lon="12.5734499"/>
+  <node id="1639978413" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621175" lon="12.5755933"/>
+  <node id="1639978414" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623703" lon="12.5753402"/>
+  <node id="1639978415" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617237" lon="12.5761742"/>
+  <node id="1639978416" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660087" lon="12.5732544"/>
+  <node id="1639978419" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618799" lon="12.5763443"/>
+  <node id="1639978422" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597572" lon="12.5732329"/>
+  <node id="1639978423" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621175" lon="12.5757113"/>
+  <node id="1639978425" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601146" lon="12.5735733"/>
+  <node id="1639978426" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662198" lon="12.5731093"/>
+  <node id="1639978427" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618016" lon="12.5760517"/>
+  <node id="1639978429" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623838" lon="12.5764167"/>
+  <node id="1639978432" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623217" lon="12.5754028"/>
+  <node id="1639978436" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598423" lon="12.5735135"/>
+  <node id="1639978437" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622113" lon="12.5730827"/>
+  <node id="1639978438" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661738" lon="12.5762229"/>
+  <node id="1639978439" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621982" lon="12.5765123"/>
+  <node id="1639978440" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621946" lon="12.5743326"/>
+  <node id="1639978443" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662119" lon="12.5732437"/>
+  <node id="1639978444" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617029" lon="12.5742916"/>
+  <node id="1639978445" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614775" lon="12.5734234"/>
+  <node id="1639978447" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622294" lon="12.5754323"/>
+  <node id="1639978448" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617265" lon="12.5762334"/>
+  <node id="1639978450" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622476" lon="12.5752929"/>
+  <node id="1639978451" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659851" lon="12.5732007"/>
+  <node id="1639978452" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623096" lon="12.5761083"/>
+  <node id="1639978453" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598332" lon="12.5731763"/>
+  <node id="1639978454" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620815" lon="12.5744745"/>
+  <node id="1639978456" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621725" lon="12.5743857"/>
+  <node id="1639978458" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621234" lon="12.5765958"/>
+  <node id="1639978459" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601445" lon="12.5735521"/>
+  <node id="1639978466" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6625127" lon="12.5764004"/>
+  <node id="1639978468" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599403" lon="12.5732812"/>
+  <node id="1639978469" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624099" lon="12.5763682"/>
+  <node id="1639978470" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623811" lon="12.5759481"/>
+  <node id="1639978471" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622642" lon="12.5731659"/>
+  <node id="1639978472" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624325" lon="12.5752175"/>
+  <node id="1639978473" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620343" lon="12.5754887"/>
+  <node id="1639978474" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620933" lon="12.574448"/>
+  <node id="1639978475" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623989" lon="12.5763443"/>
+  <node id="1639978476" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621531" lon="12.5763853"/>
+  <node id="1639978477" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599145" lon="12.5730371"/>
+  <node id="1639978478" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613686" lon="12.5733536"/>
+  <node id="1639978479" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619716" lon="12.5771213"/>
+  <node id="1639978481" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615671" lon="12.5735626"/>
+  <node id="1639978483" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659963" lon="12.5730935"/>
+  <node id="1639978484" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600598" lon="12.5734421"/>
+  <node id="1639978486" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624624" lon="12.5735843"/>
+  <node id="1639978488" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619928" lon="12.5764858"/>
+  <node id="1639978489" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662254" lon="12.5765291"/>
+  <node id="1639978490" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621405" lon="12.5743377"/>
+  <node id="1639978491" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622597" lon="12.5765025"/>
+  <node id="1639978493" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624579" lon="12.576119"/>
+  <node id="1639978496" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620918" lon="12.5749871"/>
+  <node id="1639978499" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621871" lon="12.5758561"/>
+  <node id="1639978502" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598979" lon="12.57308"/>
+  <node id="1639978505" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624791" lon="12.5754431"/>
+  <node id="1639978506" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6625097" lon="12.5752899"/>
+  <node id="1639978508" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660042" lon="12.5732273"/>
+  <node id="1639978510" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617544" lon="12.5768047"/>
+  <node id="1639978513" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624477" lon="12.5736323"/>
+  <node id="1639978517" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603079" lon="12.5737586"/>
+  <node id="1639978522" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618535" lon="12.5767143"/>
+  <node id="1639978524" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623856" lon="12.5751773"/>
+  <node id="1639978525" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616683" lon="12.574373"/>
+  <node id="1639978526" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622824" lon="12.5733429"/>
+  <node id="1639978527" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619722" lon="12.5731176"/>
+  <node id="1639978528" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620634" lon="12.5730208"/>
+  <node id="1639978530" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621829" lon="12.5733909"/>
+  <node id="1639978535" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599145" lon="12.5733992"/>
+  <node id="1639978537" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623067" lon="12.5758512"/>
+  <node id="1639978540" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620783" lon="12.5764688"/>
+  <node id="1639978550" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601298" lon="12.5735358"/>
+  <node id="1639978551" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603473" lon="12.573713"/>
+  <node id="1639978553" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621342" lon="12.5745005"/>
+  <node id="1639978555" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661678" lon="12.57609"/>
+  <node id="1639978559" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600571" lon="12.5735062"/>
+  <node id="1639978565" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622767" lon="12.5750458"/>
+  <node id="1639978567" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.660272" lon="12.5738549"/>
+  <node id="1639978571" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622301" lon="12.5757514"/>
+  <node id="1639978572" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617385" lon="12.576752"/>
+  <node id="1639978579" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622525" lon="12.5731978"/>
+  <node id="1639978584" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662125" lon="12.5733027"/>
+  <node id="1639978586" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615108" lon="12.573418"/>
+  <node id="1639978588" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621205" lon="12.5745284"/>
+  <node id="1639978589" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621133" lon="12.5752363"/>
+  <node id="1639978590" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616954" lon="12.5760739"/>
+  <node id="1639978591" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602917" lon="12.5735492"/>
+  <node id="1639978592" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.659954" lon="12.5732998"/>
+  <node id="1639978594" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613977" lon="12.5732809"/>
+  <node id="1639978600" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623444" lon="12.5748771"/>
+  <node id="1639978610" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603579" lon="12.5736862"/>
+  <node id="1639978612" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603779" lon="12.5737155"/>
+  <node id="1639978616" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623081" lon="12.5765106"/>
+  <node id="1639978618" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598071" lon="12.5732973"/>
+  <node id="1639978623" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624276" lon="12.5765642"/>
+  <node id="1639978625" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617071" lon="12.5761895"/>
+  <node id="1639978629" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621523" lon="12.5743085"/>
+  <node id="1639978631" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617952" lon="12.5760167"/>
+  <node id="1639978642" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598665" lon="12.5729725"/>
+  <node id="1639978643" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620481" lon="12.5766898"/>
+  <node id="1639978644" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616091" lon="12.5736245"/>
+  <node id="1639978648" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623974" lon="12.5763148"/>
+  <node id="1639978650" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623157" lon="12.5752741"/>
+  <node id="1639978653" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617641" lon="12.5759106"/>
+  <node id="1639978655" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624912" lon="12.5736192"/>
+  <node id="1639978660" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599638" lon="12.5731653"/>
+  <node id="1639978664" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615489" lon="12.5761086"/>
+  <node id="1639978665" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620706" lon="12.5766688"/>
+  <node id="1639978673" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622733" lon="12.5752285"/>
+  <node id="1639978675" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622646" lon="12.5765586"/>
+  <node id="1639978677" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622809" lon="12.576473"/>
+  <node id="1639978680" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620918" lon="12.5767466"/>
+  <node id="1639978682" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614869" lon="12.5733963"/>
+  <node id="1639978683" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623403" lon="12.5751183"/>
+  <node id="1639978684" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622994" lon="12.5764808"/>
+  <node id="1639978687" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662057" lon="12.5769666"/>
+  <node id="1639978691" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621417" lon="12.5756362"/>
+  <node id="1639978693" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621143" lon="12.5748402"/>
+  <node id="1639978702" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619041" lon="12.5766112"/>
+  <node id="1639978705" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624322" lon="12.5762772"/>
+  <node id="1639978708" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621042" lon="12.5732809"/>
+  <node id="1639978710" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624759" lon="12.5760717"/>
+  <node id="1639978712" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617817" lon="12.576422"/>
+  <node id="1639978714" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6617034" lon="12.5761012"/>
+  <node id="1639978716" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624174" lon="12.5762662"/>
+  <node id="1639978718" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6616706" lon="12.5765243"/>
+  <node id="1639978723" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6621402" lon="12.5732705"/>
+  <node id="1639978724" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662184" lon="12.5751185"/>
+  <node id="1639978737" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.662481" lon="12.5761616"/>
+  <node id="1639978740" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618724" lon="12.5772117"/>
+  <node id="1639978741" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622325" lon="12.5760117"/>
+  <node id="1639978746" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624049" lon="12.5754914"/>
+  <node id="1639978748" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6619592" lon="12.5766221"/>
+  <node id="1639978750" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622283" lon="12.5732702"/>
+  <node id="1639978760" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620797" lon="12.5749217"/>
+  <node id="1639978762" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598843" lon="12.573064"/>
+  <node id="1639978764" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624749" lon="12.5755635"/>
+  <node id="1639978766" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599437" lon="12.5731361"/>
+  <node id="1639978768" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600783" lon="12.5732756"/>
+  <node id="1639978770" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600753" lon="12.5734633"/>
+  <node id="1639978774" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6623282" lon="12.5761294"/>
+  <node id="1639978779" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613398" lon="12.5733188"/>
+  <node id="1639978781" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615834" lon="12.5735172"/>
+  <node id="1639978782" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599527" lon="12.5731871"/>
+  <node id="1639978793" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661917" lon="12.5766581"/>
+  <node id="1639978794" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603306" lon="12.5735736"/>
+  <node id="1639978795" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598031" lon="12.5734629"/>
+  <node id="1639978797" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6624776" lon="12.5748503"/>
+  <node id="1639978798" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620346" lon="12.5751317"/>
+  <node id="1639978800" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599312" lon="12.5731578"/>
+  <node id="1639978804" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6622627" lon="12.5733939"/>
+  <node id="1639978808" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603412" lon="12.5738069"/>
+  <node id="1639978812" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6620252" lon="12.5729754"/>
+  <node id="1639978823" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6603685" lon="12.5737372"/>
+  <node id="1639978825" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6618954" lon="12.5763977"/>
+  <node id="1639978828" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600198" lon="12.5735358"/>
+  <node id="1712697362" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599675" lon="12.5724336"/>
+  <node id="1712697364" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611888" lon="12.5694558"/>
+  <node id="1712697366" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601952" lon="12.5725784"/>
+  <node id="1712697368" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6602201" lon="12.5716886"/>
+  <node id="1712697369" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6608617" lon="12.5710336"/>
+  <node id="1712697378" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598716" lon="12.5726458"/>
+  <node id="1712697379" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6600224" lon="12.5728361"/>
+  <node id="1712697380" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614208" lon="12.5696748"/>
+  <node id="1712697381" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599743" lon="12.5722847"/>
+  <node id="1712697382" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6604553" lon="12.5719781"/>
+  <node id="1712697383" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6601309" lon="12.572608"/>
+  <node id="1712697384" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.66062" lon="12.5707481"/>
+  <node id="1741794542" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6599087" lon="12.5727065"/>
+  <node id="1741794543" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6597936" lon="12.5729271"/>
+  <node id="1746008686" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611497" lon="12.5733838"/>
+  <node id="1802458464" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6592184" lon="12.5701016"/>
+  <node id="1802458465" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6593357" lon="12.5702383"/>
+  <node id="1802458467" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6598419" lon="12.569014"/>
+  <node id="1802461749" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585094" lon="12.569756"/>
+  <node id="1802464530" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6607637" lon="12.5747232"/>
+  <node id="1802464531" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6609611" lon="12.5745443"/>
+  <node id="1802464532" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611836" lon="12.5761298"/>
+  <node id="1802464533" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613822" lon="12.5759533"/>
+  <node id="1867824576" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661705" lon="12.5688668"/>
+  <node id="2024409464" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6615538" lon="12.5759842">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="92A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="37F3CD97-98D3-4360-9F8A-00ECFF9ACCF4"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409465" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614792" lon="12.5757776">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="92B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="80AD43CF-D41A-4298-B9C1-1EFF956B6B94"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409466" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6614269" lon="12.5755985">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="94A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="94EE0CD7-DD3D-4523-8A50-51CF8BF29C6A"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409467" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661369" lon="12.5754125">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="94B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="9ABE48C9-A66E-4BB9-8946-664BD7BED235"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409468" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6613057" lon="12.5752159">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="96A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="754746C8-D454-4FAB-8447-FB8957E46E4A"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409469" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661248" lon="12.5750235">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="96B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="4558E72D-7FEE-4C0A-8850-2A2FF6055666"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409470" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611952" lon="12.5748609">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="98A"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="94517327-7F5F-4B09-9DB6-AB6A260E032B"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409471" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6611426" lon="12.5746907">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="98B"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="F145EFF4-D3CB-4C06-AD45-D56AE9C48DA4"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409474" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6610857" lon="12.574473">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="98C"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Artillerivej"/>
+    <tag k="osak:identifier" v="610A6223-F98C-4761-BC22-E96210203FEE"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2011-01-21T11:59:00"/>
+    <tag k="osak:street_no" v="0232"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2024409536" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.661516" lon="12.5749131">
+    <tag k="addr:city" v="København S"/>
+    <tag k="addr:country" v="DK"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="2300"/>
+    <tag k="addr:street" v="Carl Th. Zahles Gade"/>
+    <tag k="osak:identifier" v="21E99289-055C-4B29-A093-8F42DB8B3F62"/>
+    <tag k="osak:municipality_no" v="101"/>
+    <tag k="osak:revision" v="2012-05-10T02:26:07.773"/>
+    <tag k="osak:street_no" v="1083"/>
+    <tag k="source" v="OSAK (2012)"/>
+  </node>
+  <node id="2088373954" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.658357" lon="12.5690765"/>
+  <node id="2088373955" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6583835" lon="12.5695771"/>
+  <node id="2088373956" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.658416" lon="12.5688387"/>
+  <node id="2088373957" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584344" lon="12.5693716"/>
+  <node id="2088373958" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6584833" lon="12.5691749"/>
+  <node id="2088373959" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585083" lon="12.5696785"/>
+  <node id="2088373960" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1" lat="55.6585423" lon="12.5689372"/>
+  <way id="1880541" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8079927"/>
+    <nd ref="608415608"/>
+    <nd ref="1234226415"/>
+    <nd ref="8079926"/>
+    <nd ref="1584176653"/>
+    <nd ref="267024286"/>
+    <nd ref="8079925"/>
+    <nd ref="1625107362"/>
+    <nd ref="18011548"/>
+    <nd ref="1918396230"/>
+    <nd ref="1918396223"/>
+    <nd ref="8118512"/>
+    <nd ref="1625107367"/>
+    <nd ref="1625107361"/>
+    <nd ref="8079923"/>
+    <nd ref="11062535"/>
+    <nd ref="8891105"/>
+    <nd ref="267024283"/>
+    <nd ref="10305475"/>
+    <nd ref="1619990690"/>
+    <nd ref="1619990687"/>
+    <nd ref="1619990637"/>
+    <nd ref="8088616"/>
+    <nd ref="1625107344"/>
+    <nd ref="1029584064"/>
+    <nd ref="20908330"/>
+    <nd ref="1712697380"/>
+    <nd ref="8088607"/>
+    <nd ref="31828137"/>
+    <nd ref="8088600"/>
+    <nd ref="1712697364"/>
+    <nd ref="1535294654"/>
+    <nd ref="295911564"/>
+    <nd ref="1535294652"/>
+    <nd ref="295966938"/>
+    <nd ref="20908251"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Islands Brygge"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+  <way id="1881363" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088600"/>
+    <nd ref="8088601"/>
+    <nd ref="8088602"/>
+    <nd ref="8088603"/>
+    <nd ref="1374722566"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Axel Heides Gade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1881365" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088613"/>
+    <nd ref="1712697382"/>
+    <nd ref="8088605"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="J.C. Christensens Gade"/>
+  </way>
+  <way id="1881367" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088617"/>
+    <nd ref="8088618"/>
+    <nd ref="20908335"/>
+    <nd ref="8088619"/>
+    <nd ref="8088620"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Hans Hedtofts Gade"/>
+  </way>
+  <way id="1881368" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088619"/>
+    <nd ref="1496408449"/>
+    <nd ref="8088621"/>
+    <nd ref="8088622"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Carl Th. Zahles Gade"/>
+  </way>
+  <way id="3991406" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908316"/>
+    <nd ref="2088373950"/>
+    <nd ref="20908317"/>
+    <nd ref="20908322"/>
+    <nd ref="1504067921"/>
+    <nd ref="2088373959"/>
+    <nd ref="1802461749"/>
+    <nd ref="20908318"/>
+    <nd ref="1615580221"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Jens Otto Krags Gade"/>
+  </way>
+  <way id="3991407" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908330"/>
+    <nd ref="20908331"/>
+    <nd ref="20908332"/>
+    <nd ref="20908333"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Islands Brygge"/>
+  </way>
+  <way id="4247578" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="25415265"/>
+    <nd ref="25415249"/>
+    <nd ref="25415250"/>
+    <nd ref="25415251"/>
+    <nd ref="1587060362"/>
+    <nd ref="25415252"/>
+    <nd ref="25415253"/>
+    <nd ref="1068894577"/>
+    <nd ref="25415254"/>
+    <nd ref="1068894521"/>
+    <nd ref="25415493"/>
+    <nd ref="25415494"/>
+    <nd ref="25415495"/>
+    <nd ref="25415496"/>
+    <nd ref="25415255"/>
+    <nd ref="25415256"/>
+    <nd ref="752542744"/>
+    <nd ref="25415257"/>
+    <nd ref="25415258"/>
+    <nd ref="1432700455"/>
+    <nd ref="1432700458"/>
+    <nd ref="25415266"/>
+    <nd ref="25415259"/>
+    <nd ref="25415497"/>
+    <nd ref="1638223418"/>
+    <nd ref="1638223257"/>
+    <nd ref="25415457"/>
+    <nd ref="1638223393"/>
+    <nd ref="1638223426"/>
+    <nd ref="1638223218"/>
+    <nd ref="1638223373"/>
+    <nd ref="1638223344"/>
+    <nd ref="25415459"/>
+    <nd ref="1638223288"/>
+    <nd ref="1068916482"/>
+    <nd ref="25415261"/>
+    <nd ref="1068916515"/>
+    <nd ref="25415260"/>
+    <nd ref="25415262"/>
+    <nd ref="1742819696"/>
+    <nd ref="25415263"/>
+    <nd ref="1742819698"/>
+    <nd ref="1742819697"/>
+    <nd ref="25415264"/>
+    <nd ref="566170887"/>
+    <nd ref="25415265"/>
+    <tag k="leisure" v="common"/>
+    <tag k="name" v="Amager Fælled"/>
+  </way>
+  <way id="8122924" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088601"/>
+    <nd ref="1712697384"/>
+    <nd ref="8088612"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Axel Heides Gade"/>
+  </way>
+  <way id="8122925" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908327"/>
+    <nd ref="20908325"/>
+    <nd ref="20908326"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Erik Eriksens Gade"/>
+  </way>
+  <way id="8122926" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088606"/>
+    <nd ref="20908328"/>
+    <nd ref="8088611"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Erik Eriksens Gade"/>
+  </way>
+  <way id="8122927" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908328"/>
+    <nd ref="20908329"/>
+    <nd ref="20908323"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Erik Eriksens Gade"/>
+  </way>
+  <way id="8122928" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908325"/>
+    <nd ref="20908329"/>
+    <nd ref="20908324"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Erik Eriksens Gade"/>
+  </way>
+  <way id="8122929" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088602"/>
+    <nd ref="1712697368"/>
+    <nd ref="8088614"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Poul Hartlings Gade"/>
+  </way>
+  <way id="25172043" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="274397209"/>
+    <nd ref="295966942"/>
+    <nd ref="354494616"/>
+    <nd ref="274397210"/>
+    <nd ref="274397192"/>
+    <nd ref="748840094"/>
+    <nd ref="274397429"/>
+    <nd ref="1638223216"/>
+    <nd ref="1638223260"/>
+    <nd ref="274397430"/>
+    <nd ref="1638223319"/>
+    <nd ref="1638223305"/>
+    <nd ref="274397431"/>
+    <nd ref="748840079"/>
+    <nd ref="354494584"/>
+    <nd ref="293738453"/>
+    <nd ref="274397796"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="no"/>
+    <tag k="surface" v="unpaved"/>
+  </way>
+  <way id="25172102" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="26034710"/>
+    <nd ref="274397875"/>
+    <nd ref="274397796"/>
+    <nd ref="274397835"/>
+    <nd ref="274397836"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="lit" v="no"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="25172105" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="26034712"/>
+    <nd ref="274397875"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="25478526" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="277633984"/>
+    <nd ref="277633985"/>
+    <nd ref="277633986"/>
+    <nd ref="277633987"/>
+    <nd ref="277633988"/>
+    <nd ref="277633989"/>
+    <nd ref="277633990"/>
+    <nd ref="277633991"/>
+    <nd ref="277633992"/>
+    <nd ref="277633993"/>
+    <nd ref="277633994"/>
+    <nd ref="277633995"/>
+    <nd ref="277633996"/>
+    <nd ref="277633997"/>
+    <nd ref="277633998"/>
+    <nd ref="277633999"/>
+    <nd ref="277634000"/>
+    <nd ref="277634001"/>
+    <nd ref="277634002"/>
+    <nd ref="277633984"/>
+    <tag k="architect" v="JJW"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="42"/>
+    <tag k="image" v="http://en.wikipedia.org/wiki/File:Gemini_Residence_from_west.JPG"/>
+    <tag k="name" v="Gemini Residence"/>
+    <tag k="start_date" v="2005"/>
+    <tag k="wikipedia" v="da:Gemini Residence"/>
+  </way>
+  <way id="26177401" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="18311956"/>
+    <nd ref="18311966"/>
+    <nd ref="8088625"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Kigkurren"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="26178031" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8891108"/>
+    <nd ref="8088629"/>
+    <nd ref="8088628"/>
+    <nd ref="18311956"/>
+    <nd ref="18311957"/>
+    <nd ref="1802464533"/>
+    <nd ref="1802464531"/>
+    <nd ref="274397836"/>
+    <nd ref="456042970"/>
+    <nd ref="8088609"/>
+    <nd ref="8088610"/>
+    <nd ref="1712697379"/>
+    <nd ref="8088608"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Artillerivej"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+  <way id="26178032" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088608"/>
+    <nd ref="1741794542"/>
+    <nd ref="1712697378"/>
+    <nd ref="1615544411"/>
+    <nd ref="1615544406"/>
+    <nd ref="1802458463"/>
+    <nd ref="1802458460"/>
+    <nd ref="274397468"/>
+    <nd ref="1802458459"/>
+    <nd ref="1692111812"/>
+    <nd ref="1692111809"/>
+    <nd ref="1692111806"/>
+    <nd ref="1692111796"/>
+    <nd ref="1711559222"/>
+    <nd ref="1692111794"/>
+    <nd ref="354494648"/>
+    <nd ref="2026357311"/>
+    <nd ref="1692111791"/>
+    <nd ref="1711559207"/>
+    <nd ref="1692111789"/>
+    <nd ref="1711559205"/>
+    <nd ref="1692111787"/>
+    <nd ref="1692111784"/>
+    <nd ref="1692111776"/>
+    <nd ref="2026357314"/>
+    <nd ref="10214856"/>
+    <tag k="cycleway" v="track"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Artillerivej"/>
+    <tag k="source:maxspeed" v="sign"/>
+  </way>
+  <way id="26264285" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908331"/>
+    <nd ref="20908334"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Islands Brygge"/>
+  </way>
+  <way id="26779446" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1741794542"/>
+    <nd ref="1741794543"/>
+    <nd ref="25415255"/>
+    <nd ref="293738445"/>
+    <nd ref="293738449"/>
+    <nd ref="354494614"/>
+    <nd ref="293738453"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="27001532" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="295911564"/>
+    <nd ref="295966939"/>
+    <nd ref="295911566"/>
+    <nd ref="31828135"/>
+    <nd ref="31828136"/>
+    <nd ref="1625107359"/>
+    <nd ref="1625107336"/>
+    <nd ref="1619990681"/>
+    <nd ref="267024284"/>
+    <nd ref="1625107348"/>
+    <nd ref="267024296"/>
+    <nd ref="1625107342"/>
+    <nd ref="1625107365"/>
+    <nd ref="267024355"/>
+    <nd ref="1918396238"/>
+    <nd ref="1625107357"/>
+    <nd ref="267024285"/>
+    <nd ref="267024286"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Islands Brygge"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="27113489" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="297482710"/>
+    <nd ref="297482711"/>
+    <nd ref="297482712"/>
+    <nd ref="297482713"/>
+    <nd ref="297482714"/>
+    <nd ref="297482715"/>
+    <nd ref="297482710"/>
+    <tag k="building" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10b"/>
+  </way>
+  <way id="31666996" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="354494584"/>
+    <nd ref="354494585"/>
+    <nd ref="354494587"/>
+    <nd ref="354494589"/>
+    <nd ref="354494590"/>
+    <nd ref="354494592"/>
+    <nd ref="354494594"/>
+    <nd ref="354494603"/>
+    <nd ref="354494606"/>
+    <nd ref="354494607"/>
+    <nd ref="354494609"/>
+    <nd ref="354494612"/>
+    <nd ref="354494614"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="37450470" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="31828136"/>
+    <nd ref="31828137"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="60348000" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="750602257"/>
+    <nd ref="750602262"/>
+    <nd ref="750602268"/>
+    <nd ref="750602272"/>
+    <nd ref="750602278"/>
+    <nd ref="750602285"/>
+    <nd ref="1068179521"/>
+    <nd ref="1068179539"/>
+    <nd ref="1068179477"/>
+    <nd ref="1068179532"/>
+    <nd ref="1068179528"/>
+    <nd ref="1068179526"/>
+    <nd ref="1068179497"/>
+    <nd ref="1068179495"/>
+    <nd ref="1068179542"/>
+    <nd ref="1068179563"/>
+    <nd ref="1068179535"/>
+    <nd ref="1068179505"/>
+    <nd ref="1068179502"/>
+    <nd ref="1068179523"/>
+    <nd ref="1068179482"/>
+    <nd ref="1068179564"/>
+    <nd ref="1068179562"/>
+    <nd ref="1068179566"/>
+    <nd ref="1068179490"/>
+    <nd ref="1068179487"/>
+    <nd ref="750602291"/>
+    <nd ref="750602297"/>
+    <nd ref="750602302"/>
+    <nd ref="750602310"/>
+    <nd ref="750602335"/>
+    <nd ref="750602339"/>
+    <nd ref="750602341"/>
+    <nd ref="750602257"/>
+    <tag k="landuse" v="forest"/>
+    <tag k="natural" v="wood"/>
+  </way>
+  <way id="88682640" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="456042970"/>
+    <nd ref="1029584056"/>
+    <nd ref="1029584079"/>
+    <nd ref="1746008686"/>
+    <nd ref="1029584080"/>
+    <nd ref="1474889180"/>
+    <nd ref="1029584073"/>
+    <nd ref="1029584070"/>
+    <nd ref="1474889179"/>
+    <nd ref="1029584061"/>
+    <nd ref="1474889177"/>
+    <nd ref="1029584058"/>
+    <nd ref="1029584068"/>
+    <nd ref="1029584071"/>
+    <nd ref="1029584078"/>
+    <nd ref="1474889178"/>
+    <nd ref="1474889175"/>
+    <nd ref="1029584054"/>
+    <nd ref="1029584075"/>
+    <nd ref="1474889176"/>
+    <nd ref="1029584063"/>
+    <nd ref="1029584066"/>
+    <nd ref="1029584064"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="88682641" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088620"/>
+    <nd ref="1029584068"/>
+    <nd ref="1029584059"/>
+    <nd ref="8088611"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="89882330" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1041801223"/>
+    <nd ref="1041801226"/>
+    <nd ref="1041801232"/>
+    <nd ref="1041801229"/>
+    <nd ref="1041801211"/>
+    <nd ref="1041801217"/>
+    <nd ref="1041801246"/>
+    <nd ref="1041801235"/>
+    <nd ref="1041801223"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="92008065" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1068894595"/>
+    <nd ref="1068894509"/>
+    <nd ref="1068894514"/>
+    <nd ref="1068894575"/>
+    <nd ref="1068894574"/>
+    <nd ref="1068894526"/>
+    <nd ref="1068894573"/>
+    <nd ref="1068894502"/>
+    <nd ref="1068894523"/>
+    <nd ref="1068894571"/>
+    <nd ref="1068894549"/>
+    <nd ref="1068894570"/>
+    <nd ref="1068894524"/>
+    <nd ref="1068894597"/>
+    <nd ref="1068894516"/>
+    <nd ref="1068894550"/>
+    <nd ref="1068894519"/>
+    <nd ref="1068894552"/>
+    <nd ref="1068894545"/>
+    <nd ref="1068894566"/>
+    <nd ref="1068894567"/>
+    <nd ref="1068894527"/>
+    <nd ref="1068894547"/>
+    <nd ref="1068894596"/>
+    <nd ref="1068894505"/>
+    <nd ref="1068894507"/>
+    <nd ref="1068894557"/>
+    <nd ref="1068894555"/>
+    <nd ref="1068894528"/>
+    <nd ref="1068894554"/>
+    <nd ref="1068894568"/>
+    <nd ref="1068894521"/>
+    <nd ref="25415493"/>
+    <nd ref="25415494"/>
+    <nd ref="25415495"/>
+    <nd ref="25415496"/>
+    <nd ref="25415255"/>
+    <nd ref="1068894595"/>
+    <tag k="natural" v="wood"/>
+  </way>
+  <way id="113551878" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1287539516"/>
+    <nd ref="26034707"/>
+    <nd ref="1638223262"/>
+    <nd ref="1569541527"/>
+    <nd ref="1569541528"/>
+    <nd ref="26034708"/>
+    <nd ref="287804564"/>
+    <nd ref="26034709"/>
+    <nd ref="26034710"/>
+    <nd ref="26034711"/>
+    <nd ref="26034712"/>
+    <nd ref="1638223213"/>
+    <nd ref="26034713"/>
+    <nd ref="287804566"/>
+    <nd ref="26034714"/>
+    <nd ref="26034715"/>
+    <nd ref="287804426"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="lit" v="no"/>
+    <tag k="surface" v="dirt"/>
+  </way>
+  <way id="123206850" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1374722566"/>
+    <nd ref="8088604"/>
+    <nd ref="8088605"/>
+    <nd ref="8088606"/>
+    <nd ref="8088607"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Axel Heides Gade"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="123206851" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088606"/>
+    <nd ref="1374722572"/>
+    <nd ref="1374722534"/>
+    <nd ref="8088601"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="123206853" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088602"/>
+    <nd ref="1374722516"/>
+    <nd ref="1374722573"/>
+    <nd ref="8088605"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="128978997" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1029584073"/>
+    <nd ref="8088613"/>
+    <tag k="highway" v="cycleway"/>
+  </way>
+  <way id="129933759" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721094"/>
+    <nd ref="1638499568"/>
+    <nd ref="1432721076"/>
+    <nd ref="1432721096"/>
+    <nd ref="1432721180"/>
+    <nd ref="1432721094"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933760" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721228"/>
+    <nd ref="1432721178"/>
+    <nd ref="1432721202"/>
+    <nd ref="1432721074"/>
+    <nd ref="1432721228"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933761" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721225"/>
+    <nd ref="1432721185"/>
+    <nd ref="1432721112"/>
+    <nd ref="1432721128"/>
+    <nd ref="1432721225"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933762" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721057"/>
+    <nd ref="1432721167"/>
+    <nd ref="1432721119"/>
+    <nd ref="1432721115"/>
+    <nd ref="1432721168"/>
+    <nd ref="1432721049"/>
+    <nd ref="1432721092"/>
+    <nd ref="1432721235"/>
+    <nd ref="1432721057"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933766" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721097"/>
+    <nd ref="1432721232"/>
+    <nd ref="1432721072"/>
+    <nd ref="1432721224"/>
+    <nd ref="1432721097"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933768" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721054"/>
+    <nd ref="1432721222"/>
+    <nd ref="1432721187"/>
+    <nd ref="1432721231"/>
+    <nd ref="1432721054"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933770" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721107"/>
+    <nd ref="1432721126"/>
+    <nd ref="1432721102"/>
+    <nd ref="1432721214"/>
+    <nd ref="1432721107"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933772" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721109"/>
+    <nd ref="1432721234"/>
+    <nd ref="1432721188"/>
+    <nd ref="1432721125"/>
+    <nd ref="1432721109"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933773" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721211"/>
+    <nd ref="1432721174"/>
+    <nd ref="1432721198"/>
+    <nd ref="1432721175"/>
+    <nd ref="1432721211"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="129933775" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1802461749"/>
+    <nd ref="1802461745"/>
+    <nd ref="1432721193"/>
+    <nd ref="1248495426"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="129933781" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1432721217"/>
+    <nd ref="1432721179"/>
+    <nd ref="1432721220"/>
+    <nd ref="1432721209"/>
+    <nd ref="1432721217"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="137120497" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1615580221"/>
+    <nd ref="1615580224"/>
+    <nd ref="1615580226"/>
+    <nd ref="20908319"/>
+    <nd ref="1504067898"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="137120499" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1535294654"/>
+    <nd ref="1504067926"/>
+    <nd ref="1615580236"/>
+    <nd ref="8088614"/>
+    <nd ref="1504067898"/>
+    <nd ref="1535294653"/>
+    <nd ref="1615580231"/>
+    <nd ref="1615580233"/>
+    <nd ref="1615580234"/>
+    <nd ref="1535294652"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="148455155" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1615544405"/>
+    <nd ref="1615544407"/>
+    <nd ref="1615544408"/>
+    <nd ref="1615544409"/>
+    <nd ref="1615544410"/>
+    <nd ref="1615544411"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="148455156" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1615544406"/>
+    <nd ref="1615544405"/>
+    <nd ref="1615544404"/>
+    <nd ref="1615544403"/>
+    <nd ref="1615544402"/>
+    <nd ref="1802458461"/>
+    <nd ref="1615544400"/>
+    <nd ref="1615544401"/>
+    <nd ref="1802458462"/>
+    <nd ref="1615544405"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="148458195" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="20908317"/>
+    <nd ref="2088373963"/>
+    <nd ref="1802461751"/>
+    <nd ref="1802461759"/>
+    <nd ref="1615580234"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="148458196" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1615580233"/>
+    <nd ref="1615580236"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="148458197" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1535294653"/>
+    <nd ref="1615580228"/>
+    <nd ref="1504067930"/>
+    <nd ref="1504067921"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="148458198" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1615580231"/>
+    <nd ref="1615580230"/>
+    <nd ref="1615580229"/>
+    <nd ref="1615580223"/>
+    <nd ref="1615580220"/>
+    <nd ref="20908322"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="148458199" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088614"/>
+    <nd ref="1615580227"/>
+    <nd ref="1615580219"/>
+    <nd ref="1615580211"/>
+    <nd ref="1615580210"/>
+    <nd ref="1615580208"/>
+    <nd ref="1615580206"/>
+    <nd ref="1615580207"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="yes"/>
+  </way>
+  <way id="150966615" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638223397"/>
+    <nd ref="1638223212"/>
+    <nd ref="1638223429"/>
+    <nd ref="1638223413"/>
+    <nd ref="1638223364"/>
+    <nd ref="1638223415"/>
+    <nd ref="1638223366"/>
+    <nd ref="1638223242"/>
+    <nd ref="1638223362"/>
+    <nd ref="1638223351"/>
+    <nd ref="1638223378"/>
+    <nd ref="1638223397"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997152" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499638"/>
+    <nd ref="1638499551"/>
+    <nd ref="1638499568"/>
+    <nd ref="1432721094"/>
+    <nd ref="1638499648"/>
+    <nd ref="1638499510"/>
+    <nd ref="1638499638"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997153" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499498"/>
+    <nd ref="1638499612"/>
+    <nd ref="1638499621"/>
+    <nd ref="1638499702"/>
+    <nd ref="1638499636"/>
+    <nd ref="1638499504"/>
+    <nd ref="1638499456"/>
+    <nd ref="1638499633"/>
+    <nd ref="1638499498"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997154" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499495"/>
+    <nd ref="1638499577"/>
+    <nd ref="1638499591"/>
+    <nd ref="1638499618"/>
+    <nd ref="1638499637"/>
+    <nd ref="1638499536"/>
+    <nd ref="1638499663"/>
+    <nd ref="1638499634"/>
+    <nd ref="1638499495"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997156" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499682"/>
+    <nd ref="1638499526"/>
+    <nd ref="1638499608"/>
+    <nd ref="1638499555"/>
+    <nd ref="1638499645"/>
+    <nd ref="1638499658"/>
+    <nd ref="1638499682"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997158" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499659"/>
+    <nd ref="1638499500"/>
+    <nd ref="1638499477"/>
+    <nd ref="1638499690"/>
+    <nd ref="1638499635"/>
+    <nd ref="1638499473"/>
+    <nd ref="1638499567"/>
+    <nd ref="1638499508"/>
+    <nd ref="1638499659"/>
+  </way>
+  <way id="150997159" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499656"/>
+    <nd ref="1638499718"/>
+    <nd ref="1638499595"/>
+    <nd ref="1638499655"/>
+    <nd ref="1638499648"/>
+    <nd ref="1638499510"/>
+    <nd ref="1638499560"/>
+    <nd ref="1638499656"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997160" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499474"/>
+    <nd ref="1638499616"/>
+    <nd ref="1638499606"/>
+    <nd ref="1638499632"/>
+    <nd ref="1638499713"/>
+    <nd ref="1638499717"/>
+    <nd ref="1638499641"/>
+    <nd ref="1638499677"/>
+    <nd ref="1638499657"/>
+    <nd ref="1638499540"/>
+    <nd ref="1638499474"/>
+    <tag k="building" v="office"/>
+    <tag k="int_name" v="Danish National Board of Health"/>
+    <tag k="name" v="Sundhedsstyrelsen"/>
+  </way>
+  <way id="150997162" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499684"/>
+    <nd ref="1638223312"/>
+    <nd ref="1638499556"/>
+    <nd ref="1638499557"/>
+    <nd ref="1638499454"/>
+    <nd ref="1638499516"/>
+    <nd ref="1638499497"/>
+    <nd ref="1638499679"/>
+    <nd ref="1638499671"/>
+    <nd ref="1638223399"/>
+    <nd ref="1638223214"/>
+    <nd ref="1638499684"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997164" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499480"/>
+    <nd ref="1638499692"/>
+    <nd ref="1638499464"/>
+    <nd ref="1638499696"/>
+    <nd ref="1638499701"/>
+    <nd ref="1638499532"/>
+    <nd ref="1638499539"/>
+    <nd ref="1638499722"/>
+    <nd ref="1638499620"/>
+    <nd ref="1638499480"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997166" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499481"/>
+    <nd ref="1638499534"/>
+    <nd ref="1638499661"/>
+    <nd ref="1638499475"/>
+    <nd ref="1638499481"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997170" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499622"/>
+    <nd ref="1638499646"/>
+    <nd ref="1638499494"/>
+    <nd ref="1638499619"/>
+    <nd ref="1638499617"/>
+    <nd ref="1638499499"/>
+    <nd ref="1638499728"/>
+    <nd ref="1638499622"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997171" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499719"/>
+    <nd ref="1638499598"/>
+    <nd ref="1638499703"/>
+    <nd ref="1638499698"/>
+    <nd ref="1638499719"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997172" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499675"/>
+    <nd ref="1638499478"/>
+    <nd ref="1638499554"/>
+    <nd ref="1638499502"/>
+    <nd ref="1638499675"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="150997173" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1638499667"/>
+    <nd ref="1638499723"/>
+    <nd ref="1638499613"/>
+    <nd ref="1638499686"/>
+    <nd ref="1638499667"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172971" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978501"/>
+    <nd ref="1639978700"/>
+    <nd ref="1639978531"/>
+    <nd ref="1639978505"/>
+    <nd ref="1639978365"/>
+    <nd ref="1639978414"/>
+    <nd ref="1639978650"/>
+    <nd ref="1639978673"/>
+    <nd ref="1639978724"/>
+    <nd ref="1639978496"/>
+    <nd ref="1639978798"/>
+    <nd ref="1639978589"/>
+    <nd ref="1639978473"/>
+    <nd ref="1639978413"/>
+    <nd ref="1639978450"/>
+    <nd ref="1639978432"/>
+    <nd ref="1639978746"/>
+    <nd ref="1639978764"/>
+    <nd ref="1639978501"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172973" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978760"/>
+    <nd ref="1639978693"/>
+    <nd ref="1639978444"/>
+    <nd ref="1639978525"/>
+    <nd ref="1639978760"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172974" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978793"/>
+    <nd ref="1639978748"/>
+    <nd ref="1639978825"/>
+    <nd ref="1639978419"/>
+    <nd ref="1639978712"/>
+    <nd ref="1639978718"/>
+    <nd ref="1639978572"/>
+    <nd ref="1639978702"/>
+    <nd ref="1639978793"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172976" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978371"/>
+    <nd ref="1639978499"/>
+    <nd ref="1639978571"/>
+    <nd ref="1639978691"/>
+    <nd ref="1639978423"/>
+    <nd ref="1639978427"/>
+    <nd ref="1639978371"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172977" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978446"/>
+    <nd ref="1639978523"/>
+    <nd ref="1639978532"/>
+    <nd ref="1639978462"/>
+    <nd ref="1639978720"/>
+    <nd ref="1639978391"/>
+    <nd ref="1639978447"/>
+    <nd ref="1639978691"/>
+    <nd ref="1639978571"/>
+    <nd ref="1639978537"/>
+    <nd ref="1639978470"/>
+    <nd ref="1639978710"/>
+    <nd ref="1639978446"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172978" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978618"/>
+    <nd ref="1639978422"/>
+    <nd ref="1639978642"/>
+    <nd ref="1639978477"/>
+    <nd ref="1639978502"/>
+    <nd ref="1639978762"/>
+    <nd ref="1639978453"/>
+    <nd ref="1639978451"/>
+    <nd ref="1639978618"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172979" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978527"/>
+    <nd ref="1639978812"/>
+    <nd ref="1639978528"/>
+    <nd ref="1639978367"/>
+    <nd ref="1639978426"/>
+    <nd ref="1639978437"/>
+    <nd ref="1639978471"/>
+    <nd ref="1639978579"/>
+    <nd ref="1639978385"/>
+    <nd ref="1639978368"/>
+    <nd ref="1639978646"/>
+    <nd ref="1639978384"/>
+    <nd ref="1639978588"/>
+    <nd ref="1639978553"/>
+    <nd ref="1639978474"/>
+    <nd ref="1639978454"/>
+    <nd ref="1639978370"/>
+    <nd ref="1639978779"/>
+    <nd ref="1639978478"/>
+    <nd ref="1639978594"/>
+    <nd ref="1639978682"/>
+    <nd ref="1639978445"/>
+    <nd ref="1639978404"/>
+    <nd ref="1639978586"/>
+    <nd ref="1639978781"/>
+    <nd ref="1639978481"/>
+    <nd ref="1639978644"/>
+    <nd ref="1639978394"/>
+    <nd ref="1639978629"/>
+    <nd ref="1639978490"/>
+    <nd ref="1639978456"/>
+    <nd ref="1639978440"/>
+    <nd ref="1639978655"/>
+    <nd ref="1639978486"/>
+    <nd ref="1639978513"/>
+    <nd ref="1639978804"/>
+    <nd ref="1639978526"/>
+    <nd ref="1639978750"/>
+    <nd ref="1639978530"/>
+    <nd ref="1639978584"/>
+    <nd ref="1639978723"/>
+    <nd ref="1639978443"/>
+    <nd ref="1639978708"/>
+    <nd ref="1639978527"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172980" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978479"/>
+    <nd ref="1639978522"/>
+    <nd ref="1639978510"/>
+    <nd ref="1639978740"/>
+    <nd ref="1639978479"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172981" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978396"/>
+    <nd ref="1639978794"/>
+    <nd ref="1639978369"/>
+    <nd ref="1639978591"/>
+    <nd ref="1639978382"/>
+    <nd ref="1639978416"/>
+    <nd ref="1639978768"/>
+    <nd ref="1639978508"/>
+    <nd ref="1639978401"/>
+    <nd ref="1639978483"/>
+    <nd ref="1639978766"/>
+    <nd ref="1639978660"/>
+    <nd ref="1639978782"/>
+    <nd ref="1639978800"/>
+    <nd ref="1639978795"/>
+    <nd ref="1639978436"/>
+    <nd ref="1639978468"/>
+    <nd ref="1639978592"/>
+    <nd ref="1639978535"/>
+    <nd ref="1639978828"/>
+    <nd ref="1639978484"/>
+    <nd ref="1639978770"/>
+    <nd ref="1639978559"/>
+    <nd ref="1639978425"/>
+    <nd ref="1639978550"/>
+    <nd ref="1639978459"/>
+    <nd ref="1639978379"/>
+    <nd ref="1639978567"/>
+    <nd ref="1639978517"/>
+    <nd ref="1639978808"/>
+    <nd ref="1639978823"/>
+    <nd ref="1639978551"/>
+    <nd ref="1639978610"/>
+    <nd ref="1639978612"/>
+    <nd ref="1639978396"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172982" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978797"/>
+    <nd ref="1639978407"/>
+    <nd ref="1639978621"/>
+    <nd ref="1639978388"/>
+    <nd ref="1639978386"/>
+    <nd ref="1639978533"/>
+    <nd ref="1639978520"/>
+    <nd ref="1639978516"/>
+    <nd ref="1639978400"/>
+    <nd ref="1639978435"/>
+    <nd ref="1639978581"/>
+    <nd ref="1639978465"/>
+    <nd ref="1639978480"/>
+    <nd ref="1639978563"/>
+    <nd ref="1639978366"/>
+    <nd ref="1639978403"/>
+    <nd ref="1639978389"/>
+    <nd ref="1639978374"/>
+    <nd ref="1639978376"/>
+    <nd ref="1639978689"/>
+    <nd ref="1639978685"/>
+    <nd ref="1639978498"/>
+    <nd ref="1639978652"/>
+    <nd ref="1639978406"/>
+    <nd ref="1639978681"/>
+    <nd ref="1639978405"/>
+    <nd ref="1639978797"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172984" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978452"/>
+    <nd ref="1639978774"/>
+    <nd ref="1639978375"/>
+    <nd ref="1639978378"/>
+    <nd ref="1639978488"/>
+    <nd ref="1639978643"/>
+    <nd ref="1639978665"/>
+    <nd ref="1639978680"/>
+    <nd ref="1639978675"/>
+    <nd ref="1639978489"/>
+    <nd ref="1639978491"/>
+    <nd ref="1639978677"/>
+    <nd ref="1639978684"/>
+    <nd ref="1639978616"/>
+    <nd ref="1639978429"/>
+    <nd ref="1639978469"/>
+    <nd ref="1639978475"/>
+    <nd ref="1639978648"/>
+    <nd ref="1639978716"/>
+    <nd ref="1639978705"/>
+    <nd ref="1639978737"/>
+    <nd ref="1639978493"/>
+    <nd ref="1639978710"/>
+    <nd ref="1639978446"/>
+    <nd ref="1639978466"/>
+    <nd ref="1639978623"/>
+    <nd ref="1639978687"/>
+    <nd ref="1639978748"/>
+    <nd ref="1639978825"/>
+    <nd ref="1639978741"/>
+    <nd ref="1639978537"/>
+    <nd ref="1639978470"/>
+    <nd ref="1639978452"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172986" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978538"/>
+    <nd ref="1639978485"/>
+    <nd ref="1639978536"/>
+    <nd ref="1639978593"/>
+    <nd ref="1639978600"/>
+    <nd ref="1639978565"/>
+    <nd ref="1639978683"/>
+    <nd ref="1639978524"/>
+    <nd ref="1639978472"/>
+    <nd ref="1639978506"/>
+    <nd ref="1639978395"/>
+    <nd ref="1639978381"/>
+    <nd ref="1639978608"/>
+    <nd ref="1639978561"/>
+    <nd ref="1639978743"/>
+    <nd ref="1639978538"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172987" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978458"/>
+    <nd ref="1639978540"/>
+    <nd ref="1639978476"/>
+    <nd ref="1639978439"/>
+    <nd ref="1639978458"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="151172990" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1639978631"/>
+    <nd ref="1639978653"/>
+    <nd ref="1639978664"/>
+    <nd ref="1639978718"/>
+    <nd ref="1639978712"/>
+    <nd ref="1639978448"/>
+    <nd ref="1639978438"/>
+    <nd ref="1639978415"/>
+    <nd ref="1639978625"/>
+    <nd ref="1639978555"/>
+    <nd ref="1639978590"/>
+    <nd ref="1639978714"/>
+    <nd ref="1639978631"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="157510551" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1374722566"/>
+    <nd ref="8088608"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Axel Heides Gade"/>
+  </way>
+  <way id="157510733" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088615"/>
+    <nd ref="364123286"/>
+    <nd ref="18311958"/>
+    <nd ref="18311957"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Sturlasgade"/>
+    <tag k="surface" v="cobblestone"/>
+  </way>
+  <way id="159170574" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1712697364"/>
+    <nd ref="1712697384"/>
+    <nd ref="1712697368"/>
+    <nd ref="1712697381"/>
+    <nd ref="1712697362"/>
+    <nd ref="1712697378"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="159170575" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1712697379"/>
+    <nd ref="1712697383"/>
+    <nd ref="1712697366"/>
+    <nd ref="1712697382"/>
+    <nd ref="1712697369"/>
+    <nd ref="1712697380"/>
+    <tag k="highway" v="cycleway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="162777804" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="8088622"/>
+    <nd ref="1746008686"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="169073946" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1802458468"/>
+    <nd ref="1802458466"/>
+    <nd ref="1802458464"/>
+    <nd ref="1802458465"/>
+    <nd ref="1802458467"/>
+    <nd ref="1802458468"/>
+    <tag k="leisure" v="water_park"/>
+  </way>
+  <way id="169074579" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1802464533"/>
+    <nd ref="1802464532"/>
+    <nd ref="1802464530"/>
+    <nd ref="1802464531"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Artillerivej"/>
+  </way>
+  <way id="176238251" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="1867824579"/>
+    <nd ref="1867824655"/>
+    <nd ref="1867824663"/>
+    <nd ref="1867824657"/>
+    <nd ref="1867824734"/>
+    <nd ref="1867824699"/>
+    <nd ref="1867824617"/>
+    <nd ref="1867824536"/>
+    <nd ref="1867824638"/>
+    <nd ref="1867824597"/>
+    <nd ref="1867824622"/>
+    <nd ref="1867824661"/>
+    <nd ref="1867824576"/>
+    <nd ref="1867824658"/>
+    <nd ref="1867824703"/>
+    <nd ref="1867824588"/>
+    <nd ref="2203912085"/>
+    <nd ref="2203912084"/>
+    <nd ref="1867824728"/>
+    <nd ref="1867824725"/>
+    <nd ref="1867824656"/>
+    <nd ref="1867824605"/>
+    <nd ref="1867824606"/>
+    <nd ref="1867824613"/>
+    <nd ref="1867824620"/>
+    <nd ref="1867824660"/>
+    <nd ref="1867824662"/>
+    <nd ref="1867824690"/>
+    <nd ref="1867824695"/>
+    <nd ref="1867824707"/>
+    <nd ref="1867824685"/>
+    <nd ref="1867824709"/>
+    <nd ref="1867824653"/>
+    <nd ref="1867824687"/>
+    <nd ref="1867824743"/>
+    <nd ref="1867824748"/>
+    <nd ref="1867824608"/>
+    <nd ref="1867824744"/>
+    <nd ref="1867824746"/>
+    <nd ref="1867824584"/>
+    <nd ref="1867824727"/>
+    <nd ref="1867824643"/>
+    <nd ref="1867824705"/>
+    <nd ref="1867824572"/>
+    <nd ref="1867824556"/>
+    <nd ref="1867824599"/>
+    <nd ref="1867824557"/>
+    <nd ref="1867824539"/>
+    <nd ref="1867824672"/>
+    <nd ref="1867824641"/>
+    <nd ref="1867824610"/>
+    <nd ref="1867824615"/>
+    <nd ref="1867824600"/>
+    <nd ref="1867824652"/>
+    <nd ref="1867824541"/>
+    <nd ref="1867824609"/>
+    <nd ref="1867824691"/>
+    <nd ref="1867824598"/>
+    <nd ref="1867824726"/>
+    <nd ref="1867824654"/>
+    <nd ref="1867824701"/>
+    <nd ref="1867824693"/>
+    <nd ref="1867824683"/>
+    <nd ref="1867824675"/>
+    <nd ref="1867824730"/>
+    <nd ref="1867824596"/>
+    <nd ref="1867824733"/>
+    <nd ref="1867824543"/>
+    <nd ref="1867824607"/>
+    <nd ref="1867824604"/>
+    <nd ref="1867824538"/>
+    <nd ref="1867824618"/>
+    <nd ref="1867824649"/>
+    <nd ref="1867824768"/>
+    <nd ref="1867824570"/>
+    <nd ref="1867824544"/>
+    <nd ref="1867824673"/>
+    <nd ref="1867824569"/>
+    <nd ref="1867824736"/>
+    <nd ref="1867824650"/>
+    <nd ref="1867824533"/>
+    <nd ref="1867824750"/>
+    <nd ref="1867824552"/>
+    <nd ref="1867824559"/>
+    <nd ref="1867824648"/>
+    <nd ref="1867824590"/>
+    <nd ref="1867824732"/>
+    <nd ref="1867824581"/>
+    <nd ref="1867824735"/>
+    <nd ref="1867824562"/>
+    <nd ref="1867824677"/>
+    <nd ref="1867824595"/>
+    <nd ref="1867824537"/>
+    <nd ref="1867824679"/>
+    <nd ref="1867824754"/>
+    <nd ref="1867824751"/>
+    <nd ref="1867824586"/>
+    <nd ref="1867824647"/>
+    <nd ref="1867824645"/>
+    <nd ref="1867824740"/>
+    <nd ref="1867824737"/>
+    <nd ref="1867824540"/>
+    <nd ref="1867824670"/>
+    <nd ref="1867824574"/>
+    <nd ref="1867824535"/>
+    <nd ref="1867824566"/>
+    <nd ref="1867824710"/>
+    <nd ref="1867824602"/>
+    <nd ref="1867824550"/>
+    <nd ref="1867824564"/>
+    <nd ref="1867824534"/>
+    <nd ref="1867824579"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Amager"/>
+  </way>
+  <way id="198736145" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="2088373957"/>
+    <nd ref="2088373955"/>
+    <nd ref="2088373949"/>
+    <nd ref="2088373953"/>
+    <nd ref="2088373957"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="198736146" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <nd ref="2088373960"/>
+    <nd ref="2088373958"/>
+    <nd ref="2088373954"/>
+    <nd ref="2088373956"/>
+    <nd ref="2088373960"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <relation id="2035275" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <member type="way" ref="150997162" role="outer"/>
+    <member type="way" ref="150997158" role="inner"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="2106171" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <member type="way" ref="157510732" role="from"/>
+    <member type="way" ref="26177401" role="to"/>
+    <member type="node" ref="8088625" role="via"/>
+    <tag k="restriction" v="no_entry"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="2106172" version="-1" timestamp="1969-12-31T23:59:59Z" changeset="-1">
+    <member type="way" ref="111712625" role="from"/>
+    <member type="way" ref="26177401" role="to"/>
+    <member type="node" ref="8088625" role="via"/>
+    <tag k="restriction" v="no_entry"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>
